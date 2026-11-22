@@ -1,0 +1,2468 @@
+{
+  "changes": [
+    {
+      "unit": "f002-center-c02",
+      "frame": 2,
+      "side": "center",
+      "before": "コ132",
+      "image_sha256": "b0fd53d8a73ee6ade85451eaac3256a461182c68700e0cc41e22972f20071c32",
+      "image_bbox": [
+        1109,
+        982,
+        1201,
+        1136
+      ],
+      "reason": "標籤上格可直接見富士川本四小字，中格類號、下格數字各自分開。此處用全形空格標格界。",
+      "after": "富士川本　コ　132"
+    },
+    {
+      "unit": "f003-center-c01",
+      "frame": 3,
+      "side": "center",
+      "before": "コ132",
+      "image_sha256": "31e6f04b3c697a355393d0ba21504201773271aeb6b2353df9d16b76eda73ea8",
+      "image_bbox": [
+        1170,
+        172,
+        1285,
+        328
+      ],
+      "reason": "棕封標籤上格亦有富士川本，中格コ，下格手寫數字132。",
+      "after": "富士川本　コ　132"
+    },
+    {
+      "unit": "f006-right-c02",
+      "frame": 6,
+      "side": "right",
+      "before": "救一□欲認其因而未知六氣所冒傷寒積痰癖虚",
+      "image_sha256": "289dc731fe3779228e2dbc2d9dd347fc178b0b258cad9e9a07542bdd094e7f25",
+      "image_bbox": [
+        1616,
+        276,
+        1678,
+        1170
+      ],
+      "reason": "傷下見冠下重墨和撇捺下足，與下方虛字形互異，支持實。痰下字可見疒，內筆仍不足以判癖或瘀。救一下方一字見人形與兩末筆，□仍保留，矣／灸候選。",
+      "after": "救一□欲認其因而未知六氣所冒傷實積痰癖虚"
+    },
+    {
+      "unit": "f006-right-c04",
+      "frame": 6,
+      "side": "right",
+      "before": "衆初看為極危施參附大料徒俟斃而已正徳年中",
+      "image_sha256": "289dc731fe3779228e2dbc2d9dd347fc178b0b258cad9e9a07542bdd094e7f25",
+      "image_bbox": [
+        1497,
+        279,
+        1566,
+        1163
+      ],
+      "reason": "危上字見短橫及偏斜下足，未見極的分立木旁，至形可辨。",
+      "after": "衆初看為至危施參附大料徒俟斃而已正徳年中"
+    },
+    {
+      "unit": "f006-left-c07",
+      "frame": 6,
+      "side": "left",
+      "before": "燥嗜肉如煮之食云々且有口候",
+      "image_sha256": "289dc731fe3779228e2dbc2d9dd347fc178b0b258cad9e9a07542bdd094e7f25",
+      "image_bbox": [
+        546,
+        269,
+        620,
+        876
+      ],
+      "reason": "第二字左月，右下見日；如下一字有方口及中竪、底點，採虫的近形。首字燥／爍仍待考。",
+      "after": "燥脂肉如虫之食云々且有口候"
+    },
+    {
+      "unit": "f007-right-c04",
+      "frame": 7,
+      "side": "right",
+      "before": "独菊莪索田查楂腹朴青山豆根射干雷查富子之",
+      "image_sha256": "9b14f40dafdc79f916459a59c1b2b0d051fd06442a93efd7672ddf7d55431a90",
+      "image_bbox": [
+        1490,
+        277,
+        1560,
+        1148
+      ],
+      "reason": "田查下字左木，右上短口、右下兩筆分開，採枳。後段菖／富為縮記字形候選。",
+      "after": "独菊莪索田查枳腹朴青山豆根射干雷查富子之"
+    },
+    {
+      "unit": "f007-right-c12",
+      "frame": 7,
+      "side": "right",
+      "before": "稜　莪　富　青　委　楂　實　水煎",
+      "image_sha256": "9b14f40dafdc79f916459a59c1b2b0d051fd06442a93efd7672ddf7d55431a90",
+      "image_bbox": [
+        1021,
+        279,
+        1094,
+        1060
+      ],
+      "reason": "實上字左木，右口與分足可見。青下字下部呈女形，維持委。菖／富仍待核。",
+      "after": "稜　莪　富　青　委　枳　實　水煎"
+    },
+    {
+      "unit": "f007-left-c04",
+      "frame": 7,
+      "side": "left",
+      "before": "一方射干梔苓湯似傷風咳嗽者",
+      "image_sha256": "9b14f40dafdc79f916459a59c1b2b0d051fd06442a93efd7672ddf7d55431a90",
+      "image_bbox": [
+        711,
+        277,
+        789,
+        865
+      ],
+      "reason": "射干下第一字中部有兩側折筆，下有兜形雙足，未見分立木旁；同形另見同面接方及幅010。",
+      "after": "一方射干兜苓湯似傷風咳嗽者"
+    },
+    {
+      "unit": "f007-left-c05",
+      "frame": 7,
+      "side": "left",
+      "before": "射　末　梔苓　桔　薄　蔘　花粉　貝　売",
+      "image_sha256": "9b14f40dafdc79f916459a59c1b2b0d051fd06442a93efd7672ddf7d55431a90",
+      "image_bbox": [
+        657,
+        321,
+        738,
+        1170
+      ],
+      "reason": "末字組上首與右鄰第4欄射干下同形，據雙足取兜。末／茉及売／殻候選保留。",
+      "after": "射　末　兜苓　桔　薄　蔘　花粉　貝　売"
+    },
+    {
+      "unit": "f007-left-c10",
+      "frame": 7,
+      "side": "left",
+      "before": "辛五分",
+      "image_sha256": "9b14f40dafdc79f916459a59c1b2b0d051fd06442a93efd7672ddf7d55431a90",
+      "image_bbox": [
+        494,
+        968,
+        531,
+        1091
+      ],
+      "reason": "同區另有左細行，第三字下有交叉斜足，筆勢與右細行二匁末字相同，有別同頁「分」形。兩細行間讀序仍依原表。",
+      "after": "辛五匁"
+    },
+    {
+      "unit": "f008-right-c06",
+      "frame": 8,
+      "side": "right",
+      "before": "沉　楂各五匁　富　實　朴各七匁　稜　莪　陳",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        1361,
+        322,
+        1445,
+        1175
+      ],
+      "reason": "欄起沉下字左木，右口與下足可辨。其後富／菖的手寫縮記仍待定。",
+      "after": "沉　枳各五匁　富　實　朴各七匁　稜　莪　陳"
+    },
+    {
+      "unit": "f008-left-c01",
+      "frame": 8,
+      "side": "left",
+      "before": "貝二匁　姜黄一匁　辛　陳各六分　青　朴各七分　荊",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        898,
+        322,
+        973,
+        1152
+      ],
+      "reason": "陳各六分以下有獨立禾形上部與扁日下部，合成香。姜黄近形維持。",
+      "after": "貝二匁　姜黄一匁　辛　陳各六分　香　朴各七分　荊"
+    },
+    {
+      "unit": "f008-left-c08",
+      "frame": 8,
+      "side": "left",
+      "before": "荊　防各一匁　芥三分　陳　青　翹各八分　右水",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        493,
+        323,
+        573,
+        1171
+      ],
+      "reason": "一匁下一字的草頭和彎弓下足可辨，無介的兩竪，讀芎。",
+      "after": "荊　防各一匁　芎三分　陳　青　翹各八分　右水"
+    },
+    {
+      "unit": "f008-left-c09",
+      "frame": 8,
+      "side": "left",
+      "before": "煎食不消加查富心煩熱去芥加梔黒炒有積加",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        428,
+        324,
+        501,
+        1174
+      ],
+      "reason": "去後之草部下見彎弓形，與相鄰第8欄同一輪廓。富／菖及黒／黑待字形核定。",
+      "after": "煎食不消加查富心煩熱去芎加梔黒炒有積加"
+    },
+    {
+      "unit": "f008-left-c10",
+      "frame": 8,
+      "side": "left",
+      "before": "楂痰多加貝歸氣壅加委莎血壅加桃紅鬱悶不",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        374,
+        323,
+        449,
+        1177
+      ],
+      "reason": "欄首木右為口之下分兩足；保留本欄其餘縮記候選及舊讀。",
+      "after": "枳痰多加貝歸氣壅加委莎血壅加桃紅鬱悶不"
+    },
+    {
+      "unit": "f008-left-c11",
+      "frame": 8,
+      "side": "left",
+      "before": "舒加辛食積加稜莪大便不通加通沉喉痛去芥",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        320,
+        322,
+        389,
+        1172
+      ],
+      "reason": "第二通下見水旁和尺形長捺，可讀沢；欄尾去下字草頭下呈弓形、旁無介竪。幅011右第2欄另見通沢。",
+      "after": "舒加辛食積加稜莪大便不通加通沢喉痛去芎"
+    },
+    {
+      "unit": "f008-left-c12",
+      "frame": 8,
+      "side": "left",
+      "before": "加薄射干大力子咳嗽加末梔苓",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        255,
+        320,
+        333,
+        928
+      ],
+      "reason": "欄底來形下一字有兜的長左筆和下部雙挑，與幅7、幅10同一字組可對看。前字末／茉／來仍候。",
+      "after": "加薄射干大力子咳嗽加末兜苓"
+    },
+    {
+      "unit": "f009-right-c05",
+      "frame": 9,
+      "side": "right",
+      "before": "防　委　索　吉　売各七分　富二匁　楂　銀",
+      "image_sha256": "74f1421f0342dd818d7b9414030bcd5dc93243f3168cfa0d6ab1ae2bcac165bf",
+      "image_bbox": [
+        1421,
+        319,
+        1487,
+        1145
+      ],
+      "reason": "末二味首字為木右口下分足，與幅7、幅8的枳同形類型。委／麥、富／菖仍未定。",
+      "after": "防　委　索　吉　売各七分　富二匁　枳　銀"
+    },
+    {
+      "unit": "f010-left-c07",
+      "frame": 10,
+      "side": "left",
+      "before": "化痰　貝　歸　来　梔苓　杏　愛　関　雄黄",
+      "image_sha256": "acba754a9f4e10cb79fbd5458ed7defc443fde39ce25ab4555bb5c05fb468651",
+      "image_bbox": [
+        540,
+        267,
+        618,
+        1168
+      ],
+      "reason": "來後第一字字腳左右分挑，與幅7同位置詞組的兜同構。歸／芥與愛關仍歧異。",
+      "after": "化痰　貝　歸　来　兜苓　杏　愛　関　雄黄"
+    },
+    {
+      "unit": "f010-left-c09",
+      "frame": 10,
+      "side": "left",
+      "before": "行血破瘀　桃　芍　紅　銀　茜草　辛　姜黄",
+      "image_sha256": "acba754a9f4e10cb79fbd5458ed7defc443fde39ce25ab4555bb5c05fb468651",
+      "image_bbox": [
+        423,
+        267,
+        485,
+        1165
+      ],
+      "reason": "桃下字下部為連折弓形，與幅8幾處芎的筆勢相合。",
+      "after": "行血破瘀　桃　芎　紅　銀　茜草　辛　姜黄"
+    },
+    {
+      "unit": "f011-right-c12",
+      "frame": 11,
+      "side": "right",
+      "before": "不可誤用薬品　熟芐　芍　参　附　耆　伽",
+      "image_sha256": "5fac672c06c902cca9d98ee2e3090e2cb3ce78ffb71a03e0f18be37124d7fbbf",
+      "image_bbox": [
+        1006,
+        267,
+        1091,
+        1113
+      ],
+      "reason": "不可以下字左言，右為扁日其下又樣長捺，近謾。熟下藥名縮筆及附／硫另保留；芍／芎亦保留。",
+      "after": "不可謾用薬品　熟芐　芍　参　附　耆　伽"
+    },
+    {
+      "unit": "f012-left-c04",
+      "frame": 12,
+      "side": "left",
+      "before": "一此病ノ様子一ヤウニ定ナシト云トモ大方ハ俄",
+      "image_sha256": "4831a36aadeb33a5b1687016c53fdcadea2c2cb8bc82cd1da58f0d29c9369019",
+      "image_bbox": [
+        718,
+        285,
+        792,
+        1167
+      ],
+      "reason": "云下只有一個橫折連鉤的字位；較下一字大之間無第二墨筆，採モ。定下土樣草筆維持ナ近記。",
+      "after": "一此病ノ様子一ヤウニ定ナシト云モ大方ハ俄"
+    },
+    {
+      "unit": "f014-right-c06",
+      "frame": 14,
+      "side": "right",
+      "before": "シ只氣分沈ミ陷ルヤウニ重クネタキ様ニテ",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        1369,
+        324,
+        1429,
+        1156
+      ],
+      "reason": "タキ後呈木旁及右件小斜點與右彎，缺様字右側羊水構件；枕為本輪讀法。前字子形作ネ的近記保留。",
+      "after": "シ只氣分沈ミ陷ルヤウニ重クネタキ枕ニテ"
+    },
+    {
+      "unit": "f014-right-c12",
+      "frame": 14,
+      "side": "right",
+      "before": "ハナリカタシ或ハ不眠シ久ヒ紛スルモアリ",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        1019,
+        328,
+        1091,
+        1152
+      ],
+      "reason": "久候選字的頂部有獨立折撇、下有分歧兩足，近欠。ヒ下一字合兩分件，紛／頻／數皆列候選；旁淡記位留疑。",
+      "after": "ハナリカタシ或ハ不眠シ欠ヒ紛スルモアリ"
+    },
+    {
+      "unit": "f014-left-c05",
+      "frame": 14,
+      "side": "left",
+      "before": "茶粥米湯白湯ホモ熱キハ禁物トヌルクシ用",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        671,
+        322,
+        741,
+        1155
+      ],
+      "reason": "物下見開筆與橫向長捺，接ヌ另起，採也。白湯後草寫及ヌルク末字仍存候選。",
+      "after": "茶粥米湯白湯ホモ熱キハ禁物也ヌルクシ用"
+    },
+    {
+      "unit": "f014-left-c12",
+      "frame": 14,
+      "side": "left",
+      "before": "非ス病氣ト云テ毒ノ氣ト其毒氣鼻口ヨリ入",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        268,
+        324,
+        341,
+        1163
+      ],
+      "reason": "氣後獨立長鉤形與本面其他也近形一致；非下假名不補濁點。",
+      "after": "非ス病氣ト云テ毒ノ氣也其毒氣鼻口ヨリ入"
+    },
+    {
+      "unit": "f015-right-c03",
+      "frame": 15,
+      "side": "right",
+      "before": "ニ氣ウカツキテ引付ヲナスニ手足甚冷ト云",
+      "image_sha256": "31589370d286ad4e667b368e47e09cf54be7a2ad81614ac6c2afb38b08e40b4f",
+      "image_bbox": [
+        1532,
+        321,
+        1599,
+        1161
+      ],
+      "reason": "ス與手間僅見一件、單鉤後帶長捺，與本開六欄之也類形。",
+      "after": "ニ氣ウカツキテ引付ヲナス也手足甚冷ト云"
+    },
+    {
+      "unit": "f015-right-c05",
+      "frame": 15,
+      "side": "right",
+      "before": "内ハ熱毒ノ病ニ此毒氣内ニ有ル閒ハ矢ノ中リ",
+      "image_sha256": "31589370d286ad4e667b368e47e09cf54be7a2ad81614ac6c2afb38b08e40b4f",
+      "image_bbox": [
+        1416,
+        325,
+        1484,
+        1162
+      ],
+      "reason": "病後可見一組橫鉤加拖筆，和相鄰右側的「ナス也」同形；閒、間近形照舊。",
+      "after": "内ハ熱毒ノ病也此毒氣内ニ有ル閒ハ矢ノ中リ"
+    },
+    {
+      "unit": "f015-right-c10",
+      "frame": 15,
+      "side": "right",
+      "before": "不去故ナリ吐モ瀉モ汗モ毒氣ノ洩ルヽ道ニ",
+      "image_sha256": "31589370d286ad4e667b368e47e09cf54be7a2ad81614ac6c2afb38b08e40b4f",
+      "image_bbox": [
+        1127,
+        324,
+        1192,
+        1165
+      ],
+      "reason": "道下另寫長收筆，與本開「病也」草形一致；非同欄其他ニ的短平形。",
+      "after": "不去故ナリ吐モ瀉モ汗モ毒氣ノ洩ルヽ道也"
+    },
+    {
+      "unit": "f015-left-c07",
+      "frame": 15,
+      "side": "left",
+      "before": "ニヨシ若醫者ヲ招ク事遠クハ先此金汁斗リ",
+      "image_sha256": "31589370d286ad4e667b368e47e09cf54be7a2ad81614ac6c2afb38b08e40b4f",
+      "image_bbox": [
+        552,
+        325,
+        623,
+        1163
+      ],
+      "reason": "招下一字與事的省筆相接；下一方框內字下末是直豎轉折，外走之，採遅的近形。招ク／招リ的下一符尚存疑。",
+      "after": "ニヨシ若醫者ヲ招ク事遅クハ先此金汁斗リ"
+    },
+    {
+      "unit": "f015-left-c10",
+      "frame": 15,
+      "side": "left",
+      "before": "ヲシメタキヲ少ク用テ良鼻杯不通トテ鼻ヨ",
+      "image_sha256": "31589370d286ad4e667b368e47e09cf54be7a2ad81614ac6c2afb38b08e40b4f",
+      "image_bbox": [
+        376,
+        323,
+        450,
+        1163
+      ],
+      "reason": "良下方字見草頭與分叉底腳，採薬；首四符與杯／抔留待逐碼核定。",
+      "after": "ヲシメタキヲ少ク用テ良薬杯不通トテ鼻ヨ"
+    },
+    {
+      "unit": "f016-right-c03",
+      "frame": 16,
+      "side": "right",
+      "before": "脂拔テ元氣持カタシ粥カ米湯カ折ヲシ灌ヘ",
+      "image_sha256": "2b141167037ffd1858640b273941c6403135d56986fd509e72fd9de7bba0bc94",
+      "image_bbox": [
+        1524,
+        325,
+        1603,
+        1172
+      ],
+      "reason": "折下字只有單折下行的一筆；與本欄幾處帶偏筆的ヲ不同，讀フ。",
+      "after": "脂拔テ元氣持カタシ粥カ米湯カ折フシ灌ヘ"
+    },
+    {
+      "unit": "f016-right-c06",
+      "frame": 16,
+      "side": "right",
+      "before": "様ナルモノニ塩味噌絶レハ湯水通リ難シ此",
+      "image_sha256": "2b141167037ffd1858640b273941c6403135d56986fd509e72fd9de7bba0bc94",
+      "image_bbox": [
+        1365,
+        323,
+        1436,
+        1157
+      ],
+      "reason": "塩前一形是單筆連長鉤，與前頁也近形同；絕下轉折完整，可保留レ。",
+      "after": "様ナルモノ也塩味噌絶レハ湯水通リ難シ此"
+    }
+  ],
+  "unresolved": [
+    {
+      "unit": "f005-left-c11",
+      "frame": 5,
+      "side": "left",
+      "before": "此病者多無卒厥惟睡眠昏沉大便溏泄無禁或自",
+      "image_sha256": "f6f9fed7002ef9fd47f94c87c5dbc463d502655d346cd9af3ecb65c9c698112a",
+      "image_bbox": [
+        327,
+        280,
+        397,
+        1174
+      ],
+      "reason": "睡下一字局部放大可見左目右似民，初稿眠有較強支持，仍保留另一讀眼。欄首卒字外形近率，兩形繼續備考。",
+      "independent_candidate": "此病者多無卒厥惟睡眼昏沉大便溏泄無禁或自"
+    },
+    {
+      "unit": "f005-left-c13",
+      "frame": 5,
+      "side": "left",
+      "before": "184766　大正7.3.31",
+      "image_sha256": "f6f9fed7002ef9fd47f94c87c5dbc463d502655d346cd9af3ecb65c9c698112a",
+      "image_bbox": [
+        353,
+        107,
+        621,
+        296
+      ],
+      "reason": "黑橢圓印的號數和日期可讀。號數上方另見兩組界框狀篆紋，尚無足夠證據轉字。",
+      "independent_candidate": "184766 大正7.3.31"
+    },
+    {
+      "unit": "f005-left-c14",
+      "frame": 5,
+      "side": "left",
+      "before": "京都帝國大學圖書之印",
+      "image_sha256": "f6f9fed7002ef9fd47f94c87c5dbc463d502655d346cd9af3ecb65c9c698112a",
+      "image_bbox": [
+        699,
+        120,
+        949,
+        371
+      ],
+      "reason": "上緣右側可見「京」字篆形，中央及左欄與黑字交疊。初稿印文與原讀候選並留，末綴未定。",
+      "independent_candidate": "京都帝國大學圖書館"
+    },
+    {
+      "unit": "f005-left-c17",
+      "frame": 5,
+      "side": "left",
+      "before": "高嶋家藏",
+      "image_sha256": "f6f9fed7002ef9fd47f94c87c5dbc463d502655d346cd9af3ecb65c9c698112a",
+      "image_bbox": [
+        830,
+        987,
+        994,
+        1151
+      ],
+      "reason": "右上可讀高，左直可讀家藏；右下時疊時斷的朱筆可疑嶋或島，未判名。",
+      "independent_candidate": "□□家藏"
+    },
+    {
+      "unit": "f006-right-c01",
+      "frame": 6,
+      "side": "right",
+      "before": "驚在壯者則以為霍乱卒痢不投温補灸炳而難十",
+      "image_sha256": "289dc731fe3779228e2dbc2d9dd347fc178b0b258cad9e9a07542bdd094e7f25",
+      "image_bbox": [
+        1678,
+        278,
+        1750,
+        1170
+      ],
+      "reason": "炳／灼、乱／亂的草筆缺少可斷筆畫。十明確在欄末，下欄救一相承。",
+      "independent_candidate": "驚在壯者則以為霍亂卒痢不投溫補灸炳而難十"
+    },
+    {
+      "unit": "f006-right-c02",
+      "frame": 6,
+      "side": "right",
+      "before": "救一□欲認其因而未知六氣所冒傷寒積痰癖虚",
+      "image_sha256": "289dc731fe3779228e2dbc2d9dd347fc178b0b258cad9e9a07542bdd094e7f25",
+      "image_bbox": [
+        1616,
+        276,
+        1678,
+        1170
+      ],
+      "reason": "傷下見冠下重墨和撇捺下足，與下方虛字形互異，支持實。痰下字可見疒，內筆仍不足以判癖或瘀。救一下方一字見人形與兩末筆，□仍保留，矣／灸候選。",
+      "independent_candidate": "救一矣欲認其因而未知六氣所冒傷實積痰瘀虛"
+    },
+    {
+      "unit": "f006-right-c05",
+      "frame": 6,
+      "side": "right",
+      "before": "奈洲氏者寓張洲每遇此証便云似驚而非驚似暴",
+      "image_sha256": "289dc731fe3779228e2dbc2d9dd347fc178b0b258cad9e9a07542bdd094e7f25",
+      "image_bbox": [
+        1433,
+        277,
+        1496,
+        1165
+      ],
+      "reason": "張下一字的點筆與鄰欄有交疊，洲／州兩候選保留。奈開筆清楚，栄形未獲額外支持。",
+      "independent_candidate": "奈洲氏者寓張州每遇此証便云似驚而非驚似暴"
+    },
+    {
+      "unit": "f006-right-c06",
+      "frame": 6,
+      "side": "right",
+      "before": "瀉而非暴瀉不可如之何也故譬之漁人乗孤舟遇",
+      "image_sha256": "289dc731fe3779228e2dbc2d9dd347fc178b0b258cad9e9a07542bdd094e7f25",
+      "image_bbox": [
+        1376,
+        278,
+        1440,
+        1172
+      ],
+      "reason": "人下一字筆勢橫聚中央，原錄乗與獨立原讀乘均是近記，維持候選。",
+      "independent_candidate": "瀉而非暴瀉不可如之何也故譬之漁人乘孤舟遇"
+    },
+    {
+      "unit": "f006-right-c07",
+      "frame": 6,
+      "side": "right",
+      "before": "暴風也然未曉之治法焉蓋勢張之漁人遇狂風震",
+      "image_sha256": "289dc731fe3779228e2dbc2d9dd347fc178b0b258cad9e9a07542bdd094e7f25",
+      "image_bbox": [
+        1313,
+        279,
+        1377,
+        1167
+      ],
+      "reason": "末字上部點畫成群，覆與雨頭諸形尚未裁定。",
+      "independent_candidate": "暴風也然未曉之治法焉蓋勢張之漁人遇狂風覆",
+      "candidate": "暴風也然未曉之治法焉蓋勢張之漁人遇狂風覆"
+    },
+    {
+      "unit": "f006-right-c10",
+      "frame": 6,
+      "side": "right",
+      "before": "只俄然有狂風折桂拔禾之變故比此証云尒耳",
+      "image_sha256": "289dc731fe3779228e2dbc2d9dd347fc178b0b258cad9e9a07542bdd094e7f25",
+      "image_bbox": [
+        1143,
+        282,
+        1207,
+        1153
+      ],
+      "reason": "折下木旁明顯，至「之」前可見間距均勻的另兩字；第二字有枝形，第三字頂撇似禾，三字先保留候選。",
+      "independent_candidate": "只俄然有狂風折摧枝木之變故比此証云尔耳"
+    },
+    {
+      "unit": "f006-right-c12",
+      "frame": 6,
+      "side": "right",
+      "before": "仲景法曰少隂病下痢清水色純青者熱在裏也大",
+      "image_sha256": "289dc731fe3779228e2dbc2d9dd347fc178b0b258cad9e9a07542bdd094e7f25",
+      "image_bbox": [
+        1032,
+        275,
+        1101,
+        1169
+      ],
+      "reason": "少下一字的阝後有相接短筆，隂／陰未以通行引文裁決。",
+      "independent_candidate": "仲景法曰少陰病下痢清水色純青者熱在裏也大"
+    },
+    {
+      "unit": "f006-left-c01",
+      "frame": 6,
+      "side": "left",
+      "before": "承氣湯下之云々又曰及于期則緩而救之則當以",
+      "image_sha256": "289dc731fe3779228e2dbc2d9dd347fc178b0b258cad9e9a07542bdd094e7f25",
+      "image_bbox": [
+        898,
+        275,
+        974,
+        1173
+      ],
+      "reason": "云後確見兩個小筆成一重文記號，々／〻近記待定；期亦承初稿留作候選。",
+      "independent_candidate": "承氣湯下之云〻又曰及于期則緩而救之則當以"
+    },
+    {
+      "unit": "f006-left-c03",
+      "frame": 6,
+      "side": "left",
+      "before": "宜凉膈散云々又原病式熱類論曰三焦為水榖轉",
+      "image_sha256": "289dc731fe3779228e2dbc2d9dd347fc178b0b258cad9e9a07542bdd094e7f25",
+      "image_bbox": [
+        777,
+        276,
+        843,
+        1167
+      ],
+      "reason": "水後一字下部有分足，素、榖的筆畫未能細分。",
+      "independent_candidate": "宜涼膈散云〻又原病式熱類論曰三焦為水素轉",
+      "candidate": "宜凉膈散云々又原病式熱類論曰三焦為水素轉"
+    },
+    {
+      "unit": "f006-left-c04",
+      "frame": 6,
+      "side": "left",
+      "before": "化之道路熱氣甚則傳化失常而吐瀉霍乱火性燥",
+      "image_sha256": "289dc731fe3779228e2dbc2d9dd347fc178b0b258cad9e9a07542bdd094e7f25",
+      "image_bbox": [
+        718,
+        273,
+        787,
+        1171
+      ],
+      "reason": "霍下為草寫左右構形，乱／亂仍待核右部省筆。",
+      "independent_candidate": "化之道路熱氣甚則傳化失常而吐瀉霍亂火性燥"
+    },
+    {
+      "unit": "f006-left-c05",
+      "frame": 6,
+      "side": "left",
+      "before": "動故也云々準繩曰有夏月脾胃伏熱大吐瀉當解",
+      "image_sha256": "289dc731fe3779228e2dbc2d9dd347fc178b0b258cad9e9a07542bdd094e7f25",
+      "image_bbox": [
+        662,
+        274,
+        730,
+        1168
+      ],
+      "reason": "云下二筆斜向與同頁第1欄相近，重文符近記兩讀存。",
+      "independent_candidate": "動故也云〻準繩曰有夏月脾胃伏熱大吐瀉當解"
+    },
+    {
+      "unit": "f006-left-c06",
+      "frame": 6,
+      "side": "left",
+      "before": "暑熱不可專囘陽云々又医統曰一作客熱内結消",
+      "image_sha256": "289dc731fe3779228e2dbc2d9dd347fc178b0b258cad9e9a07542bdd094e7f25",
+      "image_bbox": [
+        607,
+        272,
+        677,
+        1159
+      ],
+      "reason": "專下有封閉外框，框內兩短竪線，固與囘均留；一作清楚可見。",
+      "independent_candidate": "暑熱不可專固陽云〻又醫統曰一作客熱內結消"
+    },
+    {
+      "unit": "f006-left-c07",
+      "frame": 6,
+      "side": "left",
+      "before": "燥嗜肉如煮之食云々且有口候",
+      "image_sha256": "289dc731fe3779228e2dbc2d9dd347fc178b0b258cad9e9a07542bdd094e7f25",
+      "image_bbox": [
+        546,
+        269,
+        620,
+        876
+      ],
+      "reason": "第二字左月，右下見日；如下一字有方口及中竪、底點，採虫的近形。首字燥／爍仍待考。",
+      "independent_candidate": "爍脂肉如蟲之食云〻且有口候"
+    },
+    {
+      "unit": "f006-left-c09",
+      "frame": 6,
+      "side": "left",
+      "before": "大熱煩渇　頭痛如裂　大便溏泄　大便無臭",
+      "image_sha256": "289dc731fe3779228e2dbc2d9dd347fc178b0b258cad9e9a07542bdd094e7f25",
+      "image_bbox": [
+        444,
+        274,
+        514,
+        1111
+      ],
+      "reason": "煩下一字氵旁可定位，渇／渴內部上下省筆未判。",
+      "independent_candidate": "大熱煩渴頭痛如裂大便溏泄大便無臭"
+    },
+    {
+      "unit": "f006-left-c10",
+      "frame": 6,
+      "side": "left",
+      "before": "糞不青黒　昏沉不醒　胷中脹悶　心胸煩悶",
+      "image_sha256": "289dc731fe3779228e2dbc2d9dd347fc178b0b258cad9e9a07542bdd094e7f25",
+      "image_bbox": [
+        388,
+        272,
+        454,
+        1133
+      ],
+      "reason": "欄首左半墨複，右呈近隹形。次字上橫、中央下豎及旁短筆，漆墨與背透並存，雜／糞及下／不候選。",
+      "independent_candidate": "雜下青黑昏沉不醒胸中脹悶心胸煩悶"
+    },
+    {
+      "unit": "f006-left-c11",
+      "frame": 6,
+      "side": "left",
+      "before": "昏悶煩躁　昏迷沉重　煩躁喜眠　不睡喜欠",
+      "image_sha256": "289dc731fe3779228e2dbc2d9dd347fc178b0b258cad9e9a07542bdd094e7f25",
+      "image_bbox": [
+        322,
+        275,
+        391,
+        1118
+      ],
+      "reason": "喜下為目旁，右側分合不明，候選眠／眼；欄尾欠清楚。",
+      "independent_candidate": "昏悶煩躁昏迷沉重煩躁喜眼不睡喜欠"
+    },
+    {
+      "unit": "f007-right-c01",
+      "frame": 7,
+      "side": "right",
+      "before": "一方防風散瘧湯似風邪者",
+      "image_sha256": "9b14f40dafdc79f916459a59c1b2b0d051fd06442a93efd7672ddf7d55431a90",
+      "image_bbox": [
+        1665,
+        276,
+        1735,
+        778
+      ],
+      "reason": "散下有疒旁，內件草寫相疊，瘧／痂候選。",
+      "independent_candidate": "一方防風散痂湯似風邪者"
+    },
+    {
+      "unit": "f007-right-c02",
+      "frame": 7,
+      "side": "right",
+      "before": "防　陳　辛　金銀花　売　荊等分　水煎不用",
+      "image_sha256": "9b14f40dafdc79f916459a59c1b2b0d051fd06442a93efd7672ddf7d55431a90",
+      "image_bbox": [
+        1616,
+        323,
+        1675,
+        1149
+      ],
+      "reason": "花下短形上士下分足，原讀殻是候選，較接近売的部件形已在初稿保留。",
+      "independent_candidate": "防陳辛金銀花殻荊等分水煎不用"
+    },
+    {
+      "unit": "f007-right-c03",
+      "frame": 7,
+      "side": "right",
+      "before": "姜或去荊芥用薄荷亦佳　又曰萎天花翹藿薷紫",
+      "image_sha256": "9b14f40dafdc79f916459a59c1b2b0d051fd06442a93efd7672ddf7d55431a90",
+      "image_bbox": [
+        1552,
+        275,
+        1624,
+        1171
+      ],
+      "reason": "又曰下草頭部件相疊，初稿萎（蔞候選）與原讀葉並存；下方薷／藿為另處候選。",
+      "independent_candidate": "姜或去荊芥用薄荷亦佳又曰葉天花翹藿藿紫"
+    },
+    {
+      "unit": "f007-right-c04",
+      "frame": 7,
+      "side": "right",
+      "before": "独菊莪索田查楂腹朴青山豆根射干雷查富子之",
+      "image_sha256": "9b14f40dafdc79f916459a59c1b2b0d051fd06442a93efd7672ddf7d55431a90",
+      "image_bbox": [
+        1490,
+        277,
+        1560,
+        1148
+      ],
+      "reason": "田查下字左木，右上短口、右下兩筆分開，採枳。後段菖／富為縮記字形候選。",
+      "independent_candidate": "独菊莪索田查枳腹朴青山豆根射干雷查菖子之"
+    },
+    {
+      "unit": "f007-right-c05",
+      "frame": 7,
+      "side": "right",
+      "before": "類須随証加減代用痘疹初発或外感之主方",
+      "image_sha256": "9b14f40dafdc79f916459a59c1b2b0d051fd06442a93efd7672ddf7d55431a90",
+      "image_bbox": [
+        1433,
+        275,
+        1497,
+        1070
+      ],
+      "reason": "須後走之及初後末筆皆為行草，随／隨與発／發採原近記。",
+      "independent_candidate": "類須隨証加減代用痘疹初發或外感之主方"
+    },
+    {
+      "unit": "f007-right-c07",
+      "frame": 7,
+      "side": "right",
+      "before": "薄　薷　翹各一匁　朴　銀　通各七分　水煎",
+      "image_sha256": "9b14f40dafdc79f916459a59c1b2b0d051fd06442a93efd7672ddf7d55431a90",
+      "image_bbox": [
+        1318,
+        320,
+        1391,
+        1093
+      ],
+      "reason": "薄下草頭後的細長骨架可見，薷／藿末件未裁。可定位翹、通右側劑量的細字。",
+      "independent_candidate": "薄藿翹各一匁朴銀通各七分水煎"
+    },
+    {
+      "unit": "f007-right-c09",
+      "frame": 7,
+      "side": "right",
+      "before": "蘇　薷　朴　売　紅　青　陳　富　查　水",
+      "image_sha256": "9b14f40dafdc79f916459a59c1b2b0d051fd06442a93efd7672ddf7d55431a90",
+      "image_bbox": [
+        1202,
+        323,
+        1261,
+        1153
+      ],
+      "reason": "藥名縮記中三處薷／藿、売／殻、富／菖尚無字形膠著處的判據。",
+      "independent_candidate": "蘇藿朴殻紅青陳菖查水"
+    },
+    {
+      "unit": "f007-right-c12",
+      "frame": 7,
+      "side": "right",
+      "before": "稜　莪　富　青　委　楂　實　水煎",
+      "image_sha256": "9b14f40dafdc79f916459a59c1b2b0d051fd06442a93efd7672ddf7d55431a90",
+      "image_bbox": [
+        1021,
+        279,
+        1094,
+        1060
+      ],
+      "reason": "實上字左木，右口與分足可見。青下字下部呈女形，維持委。菖／富仍待核。",
+      "independent_candidate": "稜莪菖青麥枳實水煎"
+    },
+    {
+      "unit": "f007-left-c02",
+      "frame": 7,
+      "side": "left",
+      "before": "朴　查　富　稜　莪　實　翹　青　陳　辛",
+      "image_sha256": "9b14f40dafdc79f916459a59c1b2b0d051fd06442a93efd7672ddf7d55431a90",
+      "image_bbox": [
+        847,
+        326,
+        913,
+        1153
+      ],
+      "reason": "查下的短字外上似冖，草頭與屋蓋不能分，富／菖待核。",
+      "independent_candidate": "朴查菖稜莪實翹青陳辛"
+    },
+    {
+      "unit": "f007-left-c05",
+      "frame": 7,
+      "side": "left",
+      "before": "射　末　梔苓　桔　薄　蔘　花粉　貝　売",
+      "image_sha256": "9b14f40dafdc79f916459a59c1b2b0d051fd06442a93efd7672ddf7d55431a90",
+      "image_bbox": [
+        657,
+        321,
+        738,
+        1170
+      ],
+      "reason": "末字組上首與右鄰第4欄射干下同形，據雙足取兜。末／茉及売／殻候選保留。",
+      "independent_candidate": "射茉兜苓桔薄蔘花粉貝殻"
+    },
+    {
+      "unit": "f007-left-c07",
+      "frame": 7,
+      "side": "left",
+      "before": "一方沉香欝金散似寒邪無熱者",
+      "image_sha256": "9b14f40dafdc79f916459a59c1b2b0d051fd06442a93efd7672ddf7d55431a90",
+      "image_bbox": [
+        554,
+        284,
+        622,
+        867
+      ],
+      "reason": "金上一字筆畫緊縮，欝／鬱近記候選存。",
+      "independent_candidate": "一方沉香鬱金散似寒邪無熱者"
+    },
+    {
+      "unit": "f007-left-c08",
+      "frame": 7,
+      "side": "left",
+      "before": "沉　蜜　蔚各一匁　委三匁　降眞香",
+      "image_sha256": "9b14f40dafdc79f916459a59c1b2b0d051fd06442a93efd7672ddf7d55431a90",
+      "image_bbox": [
+        492,
+        323,
+        565,
+        1067
+      ],
+      "reason": "蜜下字具分組的上部墨筆及下方寸樣短足，蔚／爵仍待考；委下女生形可見。降眞香下另有雙短行。",
+      "independent_candidate": "沉蜜爵各一匁麥三匁降真香"
+    },
+    {
+      "unit": "f008-right-c01",
+      "frame": 8,
+      "side": "right",
+      "before": "蜜　沉　檀各五匁　砂　富各八匁　五灵子六匁",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        1653,
+        323,
+        1730,
+        1179
+      ],
+      "reason": "砂之下一字前後字距甚大，富／菖上部疊筆仍看不出分件，方表續文範圍明確。",
+      "independent_candidate": "蜜沉檀各五匁砂菖各八匁五灵子六匁"
+    },
+    {
+      "unit": "f008-right-c04",
+      "frame": 8,
+      "side": "right",
+      "before": "藿　莎各四匁　薄七分　売　查　翹各十匁　水煎",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        1450,
+        320,
+        1560,
+        1176
+      ],
+      "reason": "薄下小字七分，位置與原錄一致。其後簡形下見兒足，売作近記，殻僅候選。",
+      "independent_candidate": "藿莎各四匁薄七分殻查翹各十匁水煎"
+    },
+    {
+      "unit": "f008-right-c06",
+      "frame": 8,
+      "side": "right",
+      "before": "沉　楂各五匁　富　實　朴各七匁　稜　莪　陳",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        1361,
+        322,
+        1445,
+        1175
+      ],
+      "reason": "欄起沉下字左木，右口與下足可辨。其後富／菖的手寫縮記仍待定。",
+      "independent_candidate": "沉枳各五匁菖實朴各七匁稜莪陳"
+    },
+    {
+      "unit": "f008-right-c07",
+      "frame": 8,
+      "side": "right",
+      "before": "天仙子各六匁　醜　委各四匁　蜜　姜黄各三匁",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        1291,
+        323,
+        1381,
+        1165
+      ],
+      "reason": "六匁下的左旁似白或皂，右部疑屬本字或合字。次方名下面明見女形，保留委。縮寫與異體留待對本。",
+      "independent_candidate": "天仙子各六匁皂麥各四匁蜜姜黃各三匁"
+    },
+    {
+      "unit": "f008-right-c10",
+      "frame": 8,
+      "side": "right",
+      "before": "飯尾　売　栩各一匁　查　富各二各　朴八分　水",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        1130,
+        323,
+        1204,
+        1150
+      ],
+      "reason": "殻下字局部放大可見左件中竪貫橫而下分足，右勹外鉤不全合栩；保留原錄栩及獨立讀法芍。下段二後字有短捺與方口，存各／匁候選。",
+      "independent_candidate": "飯尾殻芍各一匁查菖各二匁朴八分水"
+    },
+    {
+      "unit": "f008-right-c12",
+      "frame": 8,
+      "side": "right",
+      "before": "一方清氣化痰湯痰氣壅盛者盛玉衡作案",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        1011,
+        285,
+        1089,
+        1044
+      ],
+      "reason": "盛字後的小字一路續到欄底，末字底筆,案／塞難分。保留此處原錄附注界線。",
+      "independent_candidate": "一方清氣化痰湯痰氣壅盛者盛玉衡作塞"
+    },
+    {
+      "unit": "f008-left-c01",
+      "frame": 8,
+      "side": "left",
+      "before": "貝二匁　姜黄一匁　辛　陳各六分　青　朴各七分　荊",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        898,
+        322,
+        973,
+        1152
+      ],
+      "reason": "陳各六分以下有獨立禾形上部與扁日下部，合成香。姜黄近形維持。",
+      "independent_candidate": "貝二匁姜黃一匁辛陳各六分香朴各七分荊"
+    },
+    {
+      "unit": "f008-left-c02",
+      "frame": 8,
+      "side": "left",
+      "before": "六分　委五分水煎冲砂仁末服",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        839,
+        323,
+        909,
+        861
+      ],
+      "reason": "第一組六分下字上像折禾，下有女形開足，委為原近記；麥候選保留。",
+      "independent_candidate": "六分麥五分水煎冲砂仁末服"
+    },
+    {
+      "unit": "f008-left-c03",
+      "frame": 8,
+      "side": "left",
+      "before": "一方烏氣順氣湯治内攻之劑",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        775,
+        279,
+        847,
+        824
+      ],
+      "reason": "烏／鳥的眼筆近黑，縮寫與鳥形重合；底字為剤或劑的近形，不由方名替換。",
+      "independent_candidate": "一方鳥氣順氣湯治內攻之剤"
+    },
+    {
+      "unit": "f008-left-c04",
+      "frame": 8,
+      "side": "left",
+      "before": "莪　富　索　稜　歸各一分　売　青　委各八",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        721,
+        328,
+        778,
+        1173
+      ],
+      "reason": "富／菖和歸／芥的細筆接合，後段売／殻與委／麥原讀不同，均待同手縮記對照。",
+      "independent_candidate": "莪菖索稜芥各一分殻青麥各八"
+    },
+    {
+      "unit": "f008-left-c07",
+      "frame": 8,
+      "side": "left",
+      "before": "一方荊芥湯似鬱氣者",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        549,
+        291,
+        616,
+        721
+      ],
+      "reason": "似後字筆畫密縮且底部作斜捺，鬱／爵候選。荊芥清楚。",
+      "independent_candidate": "一方荊芥湯似爵氣者"
+    },
+    {
+      "unit": "f008-left-c09",
+      "frame": 8,
+      "side": "left",
+      "before": "煎食不消加查富心煩熱去芥加梔黒炒有積加",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        428,
+        324,
+        501,
+        1174
+      ],
+      "reason": "去後之草部下見彎弓形，與相鄰第8欄同一輪廓。富／菖及黒／黑待字形核定。",
+      "independent_candidate": "煎食不消加查菖心煩熱去芎加梔黑炒有積加"
+    },
+    {
+      "unit": "f008-left-c10",
+      "frame": 8,
+      "side": "left",
+      "before": "楂痰多加貝歸氣壅加委莎血壅加桃紅鬱悶不",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        374,
+        323,
+        449,
+        1177
+      ],
+      "reason": "欄首木右為口之下分兩足；保留本欄其餘縮記候選及舊讀。",
+      "independent_candidate": "枳痰多加貝芥氣壅加麥莎血壅加香紅爵悶不"
+    },
+    {
+      "unit": "f008-left-c12",
+      "frame": 8,
+      "side": "left",
+      "before": "加薄射干大力子咳嗽加末梔苓",
+      "image_sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "image_bbox": [
+        255,
+        320,
+        333,
+        928
+      ],
+      "reason": "欄底來形下一字有兜的長左筆和下部雙挑，與幅7、幅10同一字組可對看。前字末／茉／來仍候。",
+      "independent_candidate": "加薄射干大力子咳嗽加茉兜苓"
+    },
+    {
+      "unit": "f009-right-c02",
+      "frame": 9,
+      "side": "right",
+      "before": "陳　朴　查　委　青　右水煎　痰多加歸貝",
+      "image_sha256": "74f1421f0342dd818d7b9414030bcd5dc93243f3168cfa0d6ab1ae2bcac165bf",
+      "image_bbox": [
+        1608,
+        323,
+        1675,
+        1170
+      ],
+      "reason": "查後下足從女，委較近，保留與麥候選。痰多加後歸／芥草頭不清。",
+      "independent_candidate": "陳朴查麥青右水煎痰多加芥貝"
+    },
+    {
+      "unit": "f009-right-c03",
+      "frame": 9,
+      "side": "right",
+      "before": "血滯加索桃莎頭汗加實虎口渇加天花薄",
+      "image_sha256": "74f1421f0342dd818d7b9414030bcd5dc93243f3168cfa0d6ab1ae2bcac165bf",
+      "image_bbox": [
+        1545,
+        324,
+        1625,
+        1106
+      ],
+      "reason": "血下一字內部交筆，瘀、滯與痳字形仍需回核。",
+      "independent_candidate": "血瘀加索香莎頭汗加實鹿口渴加天花薄",
+      "candidate": "血瘀加索桃莎頭汗加實虎口渇加天花薄"
+    },
+    {
+      "unit": "f009-right-c05",
+      "frame": 9,
+      "side": "right",
+      "before": "防　委　索　吉　売各七分　富二匁　楂　銀",
+      "image_sha256": "74f1421f0342dd818d7b9414030bcd5dc93243f3168cfa0d6ab1ae2bcac165bf",
+      "image_bbox": [
+        1421,
+        319,
+        1487,
+        1145
+      ],
+      "reason": "末二味首字為木右口下分足，與幅7、幅8的枳同形類型。委／麥、富／菖仍未定。",
+      "independent_candidate": "防麥索吉殻各七分菖二匁枳銀"
+    },
+    {
+      "unit": "f009-right-c06",
+      "frame": 9,
+      "side": "right",
+      "before": "查　翹　栩各一匁　水煎",
+      "image_sha256": "74f1421f0342dd818d7b9414030bcd5dc93243f3168cfa0d6ab1ae2bcac165bf",
+      "image_bbox": [
+        1357,
+        325,
+        1435,
+        772
+      ],
+      "reason": "翹下的字局部放大可見左竪貫橫及長撇，右件小折鉤。與幅8右第10欄同類，原錄栩、獨立讀法芍，保留縮形候選。",
+      "independent_candidate": "查翹芍各一匁水煎"
+    },
+    {
+      "unit": "f009-right-c08",
+      "frame": 9,
+      "side": "right",
+      "before": "紅　莎　桃　虎　貝　查　栩　青　灵　右",
+      "image_sha256": "74f1421f0342dd818d7b9414030bcd5dc93243f3168cfa0d6ab1ae2bcac165bf",
+      "image_bbox": [
+        1228,
+        324,
+        1313,
+        1157
+      ],
+      "reason": "查下字下見左竪橫交及右勹，近幅8右第10欄同字形，保留栩／芍為近記候選；虎／鹿亦待核。",
+      "independent_candidate": "紅莎桃鹿貝查芍青灵右"
+    },
+    {
+      "unit": "f009-right-c10",
+      "frame": 9,
+      "side": "right",
+      "before": "一方独活紅花湯似血鬱者",
+      "image_sha256": "74f1421f0342dd818d7b9414030bcd5dc93243f3168cfa0d6ab1ae2bcac165bf",
+      "image_bbox": [
+        1130,
+        290,
+        1198,
+        796
+      ],
+      "reason": "血下字帶多短頓，縮記鬱／爵候選並存。",
+      "independent_candidate": "一方独活紅花湯似血爵者"
+    },
+    {
+      "unit": "f009-right-c11",
+      "frame": 9,
+      "side": "right",
+      "before": "独　紅　委　蒲黄　索　白蒺炒為末　委各一",
+      "image_sha256": "74f1421f0342dd818d7b9414030bcd5dc93243f3168cfa0d6ab1ae2bcac165bf",
+      "image_bbox": [
+        1067,
+        324,
+        1144,
+        1173
+      ],
+      "reason": "紅下字形與另一欄的桃相近但左木旁簡化，白下字含草頭與次層撇點，後段委下的各所在欄尾續到下欄；未擬藥名展開。",
+      "independent_candidate": "独紅香蒲黃索白芣炒為末麥各一"
+    },
+    {
+      "unit": "f009-right-c12",
+      "frame": 9,
+      "side": "right",
+      "before": "匁　莎三分　売七分　水煎",
+      "image_sha256": "74f1421f0342dd818d7b9414030bcd5dc93243f3168cfa0d6ab1ae2bcac165bf",
+      "image_bbox": [
+        1016,
+        327,
+        1078,
+        756
+      ],
+      "reason": "三分下字短形下分足，売為原近記，殻作候選。",
+      "independent_candidate": "匁莎三分殻七分水煎"
+    },
+    {
+      "unit": "f009-left-c01",
+      "frame": 9,
+      "side": "left",
+      "before": "一方清凉至宝飲清熱劑小兒最宜",
+      "image_sha256": "74f1421f0342dd818d7b9414030bcd5dc93243f3168cfa0d6ab1ae2bcac165bf",
+      "image_bbox": [
+        889,
+        281,
+        958,
+        927
+      ],
+      "reason": "標題多處採和式近形，凉／涼、宝／寶、劑／剤仍留原始兩讀。",
+      "independent_candidate": "一方清涼至寶飲清熱剤小兒最宜"
+    },
+    {
+      "unit": "f009-left-c02",
+      "frame": 9,
+      "side": "left",
+      "before": "薄　骨　牡丹　危黒　蔘　花粉　辛各等分",
+      "image_sha256": "74f1421f0342dd818d7b9414030bcd5dc93243f3168cfa0d6ab1ae2bcac165bf",
+      "image_bbox": [
+        829,
+        326,
+        895,
+        1159
+      ],
+      "reason": "薄等字字界明確，危候選梔是初錄所記；黒／黑底橫與四點連成，近記待核。",
+      "independent_candidate": "薄骨牡丹危黑蔘花粉辛各等分"
+    },
+    {
+      "unit": "f009-left-c04",
+      "frame": 9,
+      "side": "left",
+      "before": "一方救苦丹病勢鬱悶者",
+      "image_sha256": "74f1421f0342dd818d7b9414030bcd5dc93243f3168cfa0d6ab1ae2bcac165bf",
+      "image_bbox": [
+        710,
+        284,
+        774,
+        744
+      ],
+      "reason": "勢下密集縮寫鬱／爵未定。病勢與末悶筆畫可辨。",
+      "independent_candidate": "一方救苦丹病勢爵悶者"
+    },
+    {
+      "unit": "f009-left-c05",
+      "frame": 9,
+      "side": "left",
+      "before": "實　富各一匁　鬱二匁　委　翹各八分　右末茶",
+      "image_sha256": "74f1421f0342dd818d7b9414030bcd5dc93243f3168cfa0d6ab1ae2bcac165bf",
+      "image_bbox": [
+        655,
+        323,
+        720,
+        1164
+      ],
+      "reason": "分散排列的縮記定位清楚，富／菖、鬱／爵、委／麥保存逐欄差異。",
+      "independent_candidate": "實菖各一匁爵二匁麥翹各八分右末茶"
+    },
+    {
+      "unit": "f009-left-c07",
+      "frame": 9,
+      "side": "left",
+      "before": "一方牛黄丸痰喘者玉衡作痰涎喘急",
+      "image_sha256": "74f1421f0342dd818d7b9414030bcd5dc93243f3168cfa0d6ab1ae2bcac165bf",
+      "image_bbox": [
+        542,
+        279,
+        617,
+        949
+      ],
+      "reason": "牛下字上橫與下足部分連筆，黄／黃近形依原稿。",
+      "independent_candidate": "一方牛黃丸痰喘者玉衡作痰涎喘急"
+    },
+    {
+      "unit": "f009-left-c08",
+      "frame": 9,
+      "side": "left",
+      "before": "胆南星　天竹黄各三匁　雄黄五匁　辰五分　丁香",
+      "image_sha256": "74f1421f0342dd818d7b9414030bcd5dc93243f3168cfa0d6ab1ae2bcac165bf",
+      "image_bbox": [
+        485,
+        325,
+        552,
+        1168
+      ],
+      "reason": "天竹、雄下見相近的黄字草形，兩處都留黄／黃候選。",
+      "independent_candidate": "胆南星天竹黃各三匁雄黃五匁辰五分丁香"
+    },
+    {
+      "unit": "f009-left-c09",
+      "frame": 9,
+      "side": "left",
+      "before": "牛黄各四匁　甘草　水為丸姜湯下",
+      "image_sha256": "74f1421f0342dd818d7b9414030bcd5dc93243f3168cfa0d6ab1ae2bcac165bf",
+      "image_bbox": [
+        424,
+        326,
+        496,
+        919
+      ],
+      "reason": "牛下字形同右近欄，黄／黃近形存原讀。",
+      "independent_candidate": "牛黃各四匁甘草水為丸姜湯下"
+    },
+    {
+      "unit": "f009-left-c12",
+      "frame": 9,
+      "side": "left",
+      "before": "灵　陳各十匁　青　天仙子　姜黄　莪　稜各",
+      "image_sha256": "74f1421f0342dd818d7b9414030bcd5dc93243f3168cfa0d6ab1ae2bcac165bf",
+      "image_bbox": [
+        252,
+        324,
+        331,
+        1163
+      ],
+      "reason": "姜下同黃草寫近形系列，保留原稿黄，復現欄末接下一開。",
+      "independent_candidate": "灵陳各十匁青天仙子姜黃莪稜各"
+    },
+    {
+      "unit": "f010-right-c01",
+      "frame": 10,
+      "side": "right",
+      "before": "七匁　實六匁　白豆仁　委各五匁　蜜　沉各二匁",
+      "image_sha256": "acba754a9f4e10cb79fbd5458ed7defc443fde39ce25ab4555bb5c05fb468651",
+      "image_bbox": [
+        1658,
+        326,
+        1722,
+        1171
+      ],
+      "reason": "白豆仁下有女形開腳，近委。麥候選一併保存。",
+      "independent_candidate": "七匁實六匁白豆仁麥各五匁蜜沉各二匁"
+    },
+    {
+      "unit": "f010-right-c06",
+      "frame": 10,
+      "side": "right",
+      "before": "證候既具七八状者",
+      "image_sha256": "acba754a9f4e10cb79fbd5458ed7defc443fde39ce25ab4555bb5c05fb468651",
+      "image_bbox": [
+        1363,
+        362,
+        1432,
+        731
+      ],
+      "reason": "八之下一字右部犬形可見，左側點豎草寫，状／狀按原近形。",
+      "independent_candidate": "證候既具七八狀者"
+    },
+    {
+      "unit": "f010-right-c07",
+      "frame": 10,
+      "side": "right",
+      "before": "芍藥湯　奪命金丹　牛黄丸　紫金錠　豐心",
+      "image_sha256": "acba754a9f4e10cb79fbd5458ed7defc443fde39ce25ab4555bb5c05fb468651",
+      "image_bbox": [
+        1310,
+        324,
+        1375,
+        1167
+      ],
+      "reason": "牛下一字屬本書黄類近形，使用初稿黄及原讀黃的候選。",
+      "independent_candidate": "芍藥湯奪命金丹牛黃丸紫金錠豐心"
+    },
+    {
+      "unit": "f010-right-c08",
+      "frame": 10,
+      "side": "right",
+      "before": "丹　金銀煎汁　右常用多方",
+      "image_sha256": "acba754a9f4e10cb79fbd5458ed7defc443fde39ce25ab4555bb5c05fb468651",
+      "image_bbox": [
+        1240,
+        325,
+        1322,
+        825
+      ],
+      "reason": "多下方見平橫及垂足，方／竒須更高解析度或同筆跡近例，保留兩讀。",
+      "independent_candidate": "丹金銀煎汁右常用多竒"
+    },
+    {
+      "unit": "f010-right-c09",
+      "frame": 10,
+      "side": "right",
+      "before": "大熱方此方未試治氣結胷膈中熱在胃脘飲食呕",
+      "image_sha256": "acba754a9f4e10cb79fbd5458ed7defc443fde39ce25ab4555bb5c05fb468651",
+      "image_bbox": [
+        1198,
+        275,
+        1264,
+        1165
+      ],
+      "reason": "結下與欄底兩字有胷／胸、呕／呃的右件小筆差異，尚未釐清。",
+      "independent_candidate": "大熱方此方未試治氣結胸膈中熱在胃脘飲食呃"
+    },
+    {
+      "unit": "f010-right-c10",
+      "frame": 10,
+      "side": "right",
+      "before": "逆渇者方",
+      "image_sha256": "acba754a9f4e10cb79fbd5458ed7defc443fde39ce25ab4555bb5c05fb468651",
+      "image_bbox": [
+        1138,
+        325,
+        1204,
+        530
+      ],
+      "reason": "逆下字氵旁外部完好，渇／渴內部省寫未定。",
+      "independent_candidate": "逆渴者方"
+    },
+    {
+      "unit": "f010-right-c11",
+      "frame": 10,
+      "side": "right",
+      "before": "前　實　桂　虎　知母　寒水石　耳各十匁",
+      "image_sha256": "acba754a9f4e10cb79fbd5458ed7defc443fde39ce25ab4555bb5c05fb468651",
+      "image_bbox": [
+        1078,
+        325,
+        1141,
+        1163
+      ],
+      "reason": "桂下字上頂虍形或鹿形、下腳撇折，虎／鹿仍待核。",
+      "independent_candidate": "前實桂鹿知母寒水石耳各十匁"
+    },
+    {
+      "unit": "f010-left-c02",
+      "frame": 10,
+      "side": "left",
+      "before": "発表　荊　防　前　辛　獨",
+      "image_sha256": "acba754a9f4e10cb79fbd5458ed7defc443fde39ce25ab4555bb5c05fb468651",
+      "image_bbox": [
+        827,
+        267,
+        897,
+        806
+      ],
+      "reason": "表前字上分足及下折筆，発／發採近形，未照現代字形統一。",
+      "independent_candidate": "發表荊防前辛獨"
+    },
+    {
+      "unit": "f010-left-c03",
+      "frame": 10,
+      "side": "left",
+      "before": "和食　陳　青　實　売　縮",
+      "image_sha256": "acba754a9f4e10cb79fbd5458ed7defc443fde39ce25ab4555bb5c05fb468651",
+      "image_bbox": [
+        766,
+        265,
+        833,
+        809
+      ],
+      "reason": "實下字上士下分足，売／殻候選存。",
+      "independent_candidate": "和食陳青實殻縮"
+    },
+    {
+      "unit": "f010-left-c04",
+      "frame": 10,
+      "side": "left",
+      "before": "清熱　翹　柴　葛　薄　蔘　化　童便",
+      "image_sha256": "acba754a9f4e10cb79fbd5458ed7defc443fde39ce25ab4555bb5c05fb468651",
+      "image_bbox": [
+        715,
+        267,
+        795,
+        1039
+      ],
+      "reason": "蔘下字有向左撇與長鉤，化、花、丸均曾為候選，將文字留原錄，朱點、空距另見母圖。",
+      "independent_candidate": "清熱翹柴葛薄蔘丸童便"
+    },
+    {
+      "unit": "f010-left-c05",
+      "frame": 10,
+      "side": "left",
+      "before": "解毒　辛　降　鬱",
+      "image_sha256": "acba754a9f4e10cb79fbd5458ed7defc443fde39ce25ab4555bb5c05fb468651",
+      "image_bbox": [
+        656,
+        267,
+        719,
+        627
+      ],
+      "reason": "最後一字為鬱／爵的本冊縮記，無更細部件可定。",
+      "independent_candidate": "解毒辛降爵"
+    },
+    {
+      "unit": "f010-left-c07",
+      "frame": 10,
+      "side": "left",
+      "before": "化痰　貝　歸　来　梔苓　杏　愛　関　雄黄",
+      "image_sha256": "acba754a9f4e10cb79fbd5458ed7defc443fde39ce25ab4555bb5c05fb468651",
+      "image_bbox": [
+        540,
+        267,
+        618,
+        1168
+      ],
+      "reason": "來後第一字字腳左右分挑，與幅7同位置詞組的兜同構。歸／芥與愛關仍歧異。",
+      "independent_candidate": "化痰貝芥茉兜苓杏愛□雄黃"
+    },
+    {
+      "unit": "f010-left-c08",
+      "frame": 10,
+      "side": "left",
+      "before": "牛黄　胆星　天竹黄",
+      "image_sha256": "acba754a9f4e10cb79fbd5458ed7defc443fde39ce25ab4555bb5c05fb468651",
+      "image_bbox": [
+        481,
+        324,
+        551,
+        751
+      ],
+      "reason": "牛與竹各自下面都有黄類草形，兩處黄／黃持續留候。",
+      "independent_candidate": "牛黃胆星天竹黃"
+    },
+    {
+      "unit": "f010-left-c11",
+      "frame": 10,
+      "side": "left",
+      "before": "消食化積　查　富　芽　曲　稜　莪　朴　虎",
+      "image_sha256": "acba754a9f4e10cb79fbd5458ed7defc443fde39ce25ab4555bb5c05fb468651",
+      "image_bbox": [
+        311,
+        268,
+        370,
+        1165
+      ],
+      "reason": "查下富／菖、朴下虎／鹿為本欄不同位置的雙候選。",
+      "independent_candidate": "消食化積查菖芽曲稜莪朴鹿"
+    },
+    {
+      "unit": "f011-right-c04",
+      "frame": 11,
+      "side": "right",
+      "before": "雑",
+      "image_sha256": "5fac672c06c902cca9d98ee2e3090e2cb3ce78ffb71a03e0f18be37124d7fbbf",
+      "image_bbox": [
+        1501,
+        360,
+        1561,
+        425
+      ],
+      "reason": "單字短欄區域有左部逐筆短折與右邊隹形，雑／雜近記存。",
+      "independent_candidate": "雜"
+    },
+    {
+      "unit": "f011-right-c05",
+      "frame": 11,
+      "side": "right",
+      "before": "化　桔　皂刺　朱房　晩　蚕砂　大麻人　鬱　檀　丁　藿",
+      "image_sha256": "5fac672c06c902cca9d98ee2e3090e2cb3ce78ffb71a03e0f18be37124d7fbbf",
+      "image_bbox": [
+        1408,
+        323,
+        1489,
+        1041
+      ],
+      "reason": "欄首放大左短直下筆、右長折回鉤，原錄化與原讀丸各能解釋部分筆畫；中部藥名縮記仍保留候選。",
+      "independent_candidate": "丸桔皂刺朱房晚蚕砂大麻人爵檀丁藿"
+    },
+    {
+      "unit": "f011-right-c06",
+      "frame": 11,
+      "side": "right",
+      "before": "温劑　白荳蔻　砂人　蜜　丁香",
+      "image_sha256": "5fac672c06c902cca9d98ee2e3090e2cb3ce78ffb71a03e0f18be37124d7fbbf",
+      "image_bbox": [
+        1357,
+        272,
+        1429,
+        894
+      ],
+      "reason": "欄首兩字溫／温、剤／劑草寫近形有異，保持候選。",
+      "independent_candidate": "溫剤白荳蔻砂人蜜丁香"
+    },
+    {
+      "unit": "f011-right-c11",
+      "frame": 11,
+      "side": "right",
+      "before": "一方紫吾一匁　百沸煎　辰各三分　右末白湯用",
+      "image_sha256": "5fac672c06c902cca9d98ee2e3090e2cb3ce78ffb71a03e0f18be37124d7fbbf",
+      "image_bbox": [
+        1064,
+        268,
+        1147,
+        1159
+      ],
+      "reason": "一方下首字頭頂多發散短點，紫／蒙有歧異；百下一字多草寫短筆，沸／茶同留。",
+      "independent_candidate": "一方蒙吾一匁百茶煎辰各三分右末白湯用"
+    },
+    {
+      "unit": "f011-right-c12",
+      "frame": 11,
+      "side": "right",
+      "before": "不可誤用薬品　熟芐　芍　参　附　耆　伽",
+      "image_sha256": "5fac672c06c902cca9d98ee2e3090e2cb3ce78ffb71a03e0f18be37124d7fbbf",
+      "image_bbox": [
+        1006,
+        267,
+        1091,
+        1113
+      ],
+      "reason": "不可以下字左言，右為扁日其下又樣長捺，近謾。熟下藥名縮筆及附／硫另保留；芍／芎亦保留。",
+      "independent_candidate": "不可謾用薬品熟米芎参硫耆伽"
+    },
+    {
+      "unit": "f011-left-c01",
+      "frame": 11,
+      "side": "left",
+      "before": "預　甘　狄　守　壮　蒼　朮　味　竹　桂",
+      "image_sha256": "5fac672c06c902cca9d98ee2e3090e2cb3ce78ffb71a03e0f18be37124d7fbbf",
+      "image_bbox": [
+        889,
+        326,
+        971,
+        1161
+      ],
+      "reason": "頂部見頁形，左部草寫。第二字甘／耳、第三字狄／茯、中部壮／塩、蒼下朮的筆畫仍不足以逐處改定。",
+      "independent_candidate": "硝耳茯守塩蒼□□味竹桂"
+    },
+    {
+      "unit": "f011-left-c02",
+      "frame": 11,
+      "side": "left",
+      "before": "呉茱　麻黄　熱湯　熱粥　酒　姜　灸",
+      "image_sha256": "5fac672c06c902cca9d98ee2e3090e2cb3ce78ffb71a03e0f18be37124d7fbbf",
+      "image_bbox": [
+        837,
+        326,
+        895,
+        1170
+      ],
+      "reason": "麻下黄類草寫同其他處，保留初稿黄與原讀黃。",
+      "independent_candidate": "呉茱麻黃熱湯熱粥酒姜灸"
+    },
+    {
+      "unit": "f012-left-c05",
+      "frame": 12,
+      "side": "left",
+      "before": "ニ惡寒發熱ヲイタシ脈浮数口渇シ湯水ヲ好",
+      "image_sha256": "4831a36aadeb33a5b1687016c53fdcadea2c2cb8bc82cd1da58f0d29c9369019",
+      "image_bbox": [
+        676,
+        327,
+        744,
+        1165
+      ],
+      "reason": "渇後斜短墨與連鉤近メ；原文多處同形或為シ的草筆，本次未定。数／數為近形。",
+      "independent_candidate": "ニ惡寒發熱ヲイタシ脈浮數口渇メ湯水ヲ好"
+    },
+    {
+      "unit": "f012-left-c10",
+      "frame": 12,
+      "side": "left",
+      "before": "クモノ眠リ一二時程ニシテ目ヲミツメ手足",
+      "image_sha256": "4831a36aadeb33a5b1687016c53fdcadea2c2cb8bc82cd1da58f0d29c9369019",
+      "image_bbox": [
+        381,
+        326,
+        450,
+        1167
+      ],
+      "reason": "欄首一字輪廓似小點與向下彎長筆，與ク、少都不全同；相鄰頁有多種草寫，不為連文改字。",
+      "independent_candidate": "少モノ眠リ一二時程ニシテ目ヲミツメ手足"
+    },
+    {
+      "unit": "f012-left-c11",
+      "frame": 12,
+      "side": "left",
+      "before": "ヒクメキ又ハ掣引シ背ヘ反リナトシ暫クシ",
+      "image_sha256": "4831a36aadeb33a5b1687016c53fdcadea2c2cb8bc82cd1da58f0d29c9369019",
+      "image_bbox": [
+        319,
+        325,
+        389,
+        1167
+      ],
+      "reason": "掣引下、ナト下及暫ク下見近同草形斜尾，シ／メ待同書成組比對。",
+      "independent_candidate": "ヒクメキ又ハ掣引メ背ヘ反リナトメ暫クメ"
+    },
+    {
+      "unit": "f012-left-c12",
+      "frame": 12,
+      "side": "left",
+      "before": "コルニ又掣引シ二三度四五度モ如此シ其間ニ",
+      "image_sha256": "4831a36aadeb33a5b1687016c53fdcadea2c2cb8bc82cd1da58f0d29c9369019",
+      "image_bbox": [
+        255,
+        324,
+        333,
+        1175
+      ],
+      "reason": "欄初方折近コ／ユ，第三字三短筆近ニ／ミ，字界可見；末近頁底的ニ保持暫錄。",
+      "independent_candidate": "ユルミ又掣引メ二三度四五度モ如此ス其間ニ"
+    },
+    {
+      "unit": "f014-right-c01",
+      "frame": 14,
+      "side": "right",
+      "before": "ハヨク眠ルナリ如此事一日半日ニシテ死シ長",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        1647,
+        326,
+        1704,
+        1178
+      ],
+      "reason": "第二個日後的墨筆近二組，シテ或〆近義近形選擇仍留疑。",
+      "independent_candidate": "ハヨク眠ルナリ如此事一日半日ニ〆死シ長"
+    },
+    {
+      "unit": "f014-right-c05",
+      "frame": 14,
+      "side": "right",
+      "before": "有コトヽ大人ハ筋骨剛キユヘ多クハ引付ナ",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        1414,
+        327,
+        1484,
+        1172
+      ],
+      "reason": "有コト末一筆末端分斜支，ヽ或也，保留初稿；大人以下欄串續明確。",
+      "independent_candidate": "有コト也大人ハ筋骨剛キユヘ多クハ引付ナ"
+    },
+    {
+      "unit": "f014-right-c06",
+      "frame": 14,
+      "side": "right",
+      "before": "シ只氣分沈ミ陷ルヤウニ重クネタキ様ニテ",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        1369,
+        324,
+        1429,
+        1156
+      ],
+      "reason": "タキ後呈木旁及右件小斜點與右彎，缺様字右側羊水構件；枕為本輪讀法。前字子形作ネ的近記保留。",
+      "independent_candidate": "シ只氣分沈ミ陷ルヤウニ重ク子タキ枕ニテ"
+    },
+    {
+      "unit": "f014-right-c07",
+      "frame": 14,
+      "side": "right",
+      "before": "ウカ〳〵トシウツ〳〵ノ様ニ覚ユルモアリ小兒",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        1306,
+        325,
+        1373,
+        1156
+      ],
+      "reason": "ウツ下第二疊形受後頁墨痕干擾，尚不能拆解；保留初錄重文號及原讀。",
+      "independent_candidate": "ウカ〳〵トシウツトノ様ニ覚ユルモアリ小兒"
+    },
+    {
+      "unit": "f014-right-c08",
+      "frame": 14,
+      "side": "right",
+      "before": "ハ疱瘡ノ初發驚風ホトニ紛レ大人ハ暑氣アタ",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        1240,
+        318,
+        1316,
+        1164
+      ],
+      "reason": "疒內下方連筆，疱、痘未能定讀。",
+      "independent_candidate": "ハ痘瘡ノ初發驚風ナドニ紛レ大人ハ暑氣アタ",
+      "candidate": "ハ痘瘡ノ初發驚風ホトニ紛レ大人ハ暑氣アタ"
+    },
+    {
+      "unit": "f014-right-c09",
+      "frame": 14,
+      "side": "right",
+      "before": "リ霍亂暴瀉ホトニ紛レテ見分カタキ事アリ第",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        1180,
+        320,
+        1251,
+        1163
+      ],
+      "reason": "瀉下一字似長直穿過短橫並有左右足，下一明為ニ。ホ及ナド的合寫候選未定。",
+      "independent_candidate": "リ霍亂暴瀉ナドニ紛レテ見分カタキ支アリ第"
+    },
+    {
+      "unit": "f014-right-c10",
+      "frame": 14,
+      "side": "right",
+      "before": "一ノ見立病苦甚キ閒ニモ喜眠ルト大便ノ不",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        1128,
+        324,
+        1198,
+        1172
+      ],
+      "reason": "甚キ後門內與曬透陰影接近，近閒／間；眠ル下有ト／ド的濁點問題。",
+      "independent_candidate": "一ノ見立病苦甚キ間ニモ喜眠ルド大便ノ不"
+    },
+    {
+      "unit": "f014-right-c11",
+      "frame": 14,
+      "side": "right",
+      "before": "臭ヲ以前ノ見立ス其外々見立ハ素人ニテ",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        1077,
+        327,
+        1144,
+        1160
+      ],
+      "reason": "以後一字下方近火點而其上多橫，候選前／煎；外下一符細淡，ノ／々仍待核。",
+      "independent_candidate": "臭ヲ以前ノ見立ス其外ノ見立ハ素人ニテ"
+    },
+    {
+      "unit": "f014-right-c12",
+      "frame": 14,
+      "side": "right",
+      "before": "ハナリカタシ或ハ不眠シ久ヒ紛スルモアリ",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        1019,
+        328,
+        1091,
+        1152
+      ],
+      "reason": "久候選字的頂部有獨立折撇、下有分歧兩足，近欠。ヒ下一字合兩分件，紛／頻／數皆列候選；旁淡記位留疑。",
+      "independent_candidate": "ハナリカタシ或ハ不眠メ欠ヒ頻スルモアリ"
+    },
+    {
+      "unit": "f014-left-c03",
+      "frame": 14,
+      "side": "left",
+      "before": "サル事故コヽニ不記然レド禁物藥ニテハ附",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        783,
+        315,
+        856,
+        1150
+      ],
+      "reason": "首符斜短筆隱約如濁點，然レ後一組橫鉤近モ／ド。保留底本書寫歧義。",
+      "independent_candidate": "サル事故コヽニ不記然レモ禁物薬ニテハ附"
+    },
+    {
+      "unit": "f014-left-c04",
+      "frame": 14,
+      "side": "left",
+      "before": "子肉桂乾姜黄芪ホトナリ又酒ト魚トヲ忌又煎",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        729,
+        323,
+        795,
+        1152
+      ],
+      "reason": "黄下草頭及內構「氏／耆」未分；緊接一字為木形貫橫，ナド／ホト暫列近讀。",
+      "independent_candidate": "子肉桂乾姜黄芪ナリ又酒ト魚トヲ忌又煎"
+    },
+    {
+      "unit": "f014-left-c05",
+      "frame": 14,
+      "side": "left",
+      "before": "茶粥米湯白湯ホモ熱キハ禁物トヌルクシ用",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        671,
+        322,
+        741,
+        1155
+      ],
+      "reason": "物下見開筆與橫向長捺，接ヌ另起，採也。白湯後草寫及ヌルク末字仍存候選。",
+      "independent_candidate": "茶粥米湯白湯ナドモ熱キハ禁物也スル〳〵用"
+    },
+    {
+      "unit": "f014-left-c06",
+      "frame": 14,
+      "side": "left",
+      "before": "ユベシ人參モ禁物ノ内ナレド是ハ様子ニ依",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        618,
+        324,
+        685,
+        1164
+      ],
+      "reason": "ナレ以下略式字形近モ／ド，與前欄相似；參／参為近形。",
+      "independent_candidate": "ユベシ人参モ禁物ノ内ナレモ是ハ様子ニ依"
+    },
+    {
+      "unit": "f014-left-c07",
+      "frame": 14,
+      "side": "left",
+      "before": "テ少ヽ用ユル事モアリ然シ人參ヲ用事ハ病",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        557,
+        324,
+        624,
+        1165
+      ],
+      "reason": "少下一符筆畫較細，ヽ／ハ等候選；事的省寫及參／参保留原近記。",
+      "independent_candidate": "テ少ハ用ユル事モアリ然シ人参ヲ用支ハ病"
+    },
+    {
+      "unit": "f014-left-c08",
+      "frame": 14,
+      "side": "left",
+      "before": "人百人ニ一二人ナラテハ無之事夫ド無用ニ",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        501,
+        325,
+        566,
+        1144
+      ],
+      "reason": "事下兩橫後出人足，夫／大均有候選；再下一小筆是モ或ド的草形，未決。",
+      "independent_candidate": "人百人ニ一二人ナラテハ無之事大モ無用ニ"
+    },
+    {
+      "unit": "f014-left-c11",
+      "frame": 14,
+      "side": "left",
+      "before": "好惡ニモヨラス又風邪寒氣溫氣食餌ホトニモ",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        322,
+        324,
+        396,
+        1162
+      ],
+      "reason": "食餌以下草式字與本開右的ホト／ナド相似，保留候選。ス不增濁點。",
+      "independent_candidate": "好惡ニモヨラズ又風邪寒氣溫氣食餌ナドニモ"
+    },
+    {
+      "unit": "f014-left-c12",
+      "frame": 14,
+      "side": "left",
+      "before": "非ス病氣ト云テ毒ノ氣ト其毒氣鼻口ヨリ入",
+      "image_sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "image_bbox": [
+        268,
+        324,
+        341,
+        1163
+      ],
+      "reason": "氣後獨立長鉤形與本面其他也近形一致；非下假名不補濁點。",
+      "independent_candidate": "非ズ病氣ト云テ毒ノ氣也其毒氣鼻口ヨリ入"
+    },
+    {
+      "unit": "f015-right-c01",
+      "frame": 15,
+      "side": "right",
+      "before": "テ先血分ニ入リ急ニ藏府ヲ攻大熱ヲ發シ腹",
+      "image_sha256": "31589370d286ad4e667b368e47e09cf54be7a2ad81614ac6c2afb38b08e40b4f",
+      "image_bbox": [
+        1648,
+        324,
+        1712,
+        1174
+      ],
+      "reason": "發下斜短折候選シ／メ，字位及旁朱點均可定位。",
+      "independent_candidate": "テ先血分ニ入リ急ニ藏府ヲ攻大熱ヲ發メ腹"
+    },
+    {
+      "unit": "f015-right-c02",
+      "frame": 15,
+      "side": "right",
+      "before": "中ノ脂膜ト盲脂ヲトロカシ能心ノ藏攻ル故",
+      "image_sha256": "31589370d286ad4e667b368e47e09cf54be7a2ad81614ac6c2afb38b08e40b4f",
+      "image_bbox": [
+        1588,
+        323,
+        1660,
+        1159
+      ],
+      "reason": "心ノ下一字左部立筆與右側多短橫層仍可見，藏／臓此處無法裁定按哪個近形。",
+      "independent_candidate": "中ノ脂膜ト盲脂ヲトロカシ能心ノ臓攻ル故"
+    },
+    {
+      "unit": "f015-right-c04",
+      "frame": 15,
+      "side": "right",
+      "before": "ド寒證ト思ベカラス惣身ニ熱ナキ症ニテモ",
+      "image_sha256": "31589370d286ad4e667b368e47e09cf54be7a2ad81614ac6c2afb38b08e40b4f",
+      "image_bbox": [
+        1470,
+        325,
+        1540,
+        1176
+      ],
+      "reason": "欄首近モ或ド，寒下字言旁分明，證／証右件不裁。",
+      "independent_candidate": "モ寒証ト思ベカラス惣身ニ熱ナキ症ニテモ"
+    },
+    {
+      "unit": "f015-right-c05",
+      "frame": 15,
+      "side": "right",
+      "before": "内ハ熱毒ノ病ニ此毒氣内ニ有ル閒ハ矢ノ中リ",
+      "image_sha256": "31589370d286ad4e667b368e47e09cf54be7a2ad81614ac6c2afb38b08e40b4f",
+      "image_bbox": [
+        1416,
+        325,
+        1484,
+        1162
+      ],
+      "reason": "病後可見一組橫鉤加拖筆，和相鄰右側的「ナス也」同形；閒、間近形照舊。",
+      "independent_candidate": "内ハ熱毒ノ病也此毒氣内ニ有ル間ハ矢ノ中リ"
+    },
+    {
+      "unit": "f015-right-c08",
+      "frame": 15,
+      "side": "right",
+      "before": "故瀉スル事ヲ厭ベカラスマヽ不瀉症アリテ",
+      "image_sha256": "31589370d286ad4e667b368e47e09cf54be7a2ad81614ac6c2afb38b08e40b4f",
+      "image_bbox": [
+        1237,
+        322,
+        1307,
+        1160
+      ],
+      "reason": "厭ベカラス後一組似モ又帶輕點，初稿マヽ與另一讀法均待核。",
+      "independent_candidate": "故瀉スル事ヲ厭ベカラスヲ不瀉症アリテ"
+    },
+    {
+      "unit": "f015-right-c12",
+      "frame": 15,
+      "side": "right",
+      "before": "若下リ止ル藥カ又附子肉桂乾姜ナト用灸ナ",
+      "image_sha256": "31589370d286ad4e667b368e47e09cf54be7a2ad81614ac6c2afb38b08e40b4f",
+      "image_bbox": [
+        1008,
+        325,
+        1079,
+        1176
+      ],
+      "reason": "乾下一字上下多折疊，姜／薑僅作候選；灸筆畫照初稿存。",
+      "independent_candidate": "若下リ止ル薬カ又附子肉桂乾薑ナト用灸ナ"
+    },
+    {
+      "unit": "f015-left-c03",
+      "frame": 15,
+      "side": "left",
+      "before": "一病人アリテ何トヤラニ□ナラシキ心元ナキ",
+      "image_sha256": "31589370d286ad4e667b368e47e09cf54be7a2ad81614ac6c2afb38b08e40b4f",
+      "image_bbox": [
+        772,
+        273,
+        848,
+        1163
+      ],
+      "reason": "ニ下一字中部有日框、下有交叉竪，右側遭延長墨痕疊及次字。早／異／景及次字ナ／チ並存，保留□。",
+      "independent_candidate": "一病人アリテ何トヤウニ早チラシキ心元ナキ"
+    },
+    {
+      "unit": "f015-left-c05",
+      "frame": 15,
+      "side": "left",
+      "before": "三四杯トヒンニ入テ煎シ迹ヨリ水ヲサシ煎",
+      "image_sha256": "31589370d286ad4e667b368e47e09cf54be7a2ad81614ac6c2afb38b08e40b4f",
+      "image_bbox": [
+        663,
+        321,
+        735,
+        1169
+      ],
+      "reason": "煎シ下一字外有走之大弧，內件呈木樣豎筆，迹／述兩讀都有具體筆畫候選。",
+      "independent_candidate": "三四杯トヒンニ入テ煎シ述ヨリ水ヲサシ煎"
+    },
+    {
+      "unit": "f015-left-c06",
+      "frame": 15,
+      "side": "left",
+      "before": "シメテ置ヘシ服藥ノ煎水丸藥ノ送汁皆此水",
+      "image_sha256": "31589370d286ad4e667b368e47e09cf54be7a2ad81614ac6c2afb38b08e40b4f",
+      "image_bbox": [
+        605,
+        324,
+        674,
+        1168
+      ],
+      "reason": "首符上方極淡，短點斜向不明，シ／ツ；ヱ、ヘ兩形亦依原讀候選。",
+      "independent_candidate": "ツメテ置ベシ服薬ノ煎水丸薬ノ送汁皆此水"
+    },
+    {
+      "unit": "f015-left-c07",
+      "frame": 15,
+      "side": "left",
+      "before": "ニヨシ若醫者ヲ招ク事遠クハ先此金汁斗リ",
+      "image_sha256": "31589370d286ad4e667b368e47e09cf54be7a2ad81614ac6c2afb38b08e40b4f",
+      "image_bbox": [
+        552,
+        325,
+        623,
+        1163
+      ],
+      "reason": "招下一字與事的省筆相接；下一方框內字下末是直豎轉折，外走之，採遅的近形。招ク／招リ的下一符尚存疑。",
+      "independent_candidate": "ニヨシ若醫者ヲ招ク支遅クハ先此金汁斗リ"
+    },
+    {
+      "unit": "f015-left-c08",
+      "frame": 15,
+      "side": "left",
+      "before": "ヲヌルクシ用ヒテ醫ヲマツベシ其閒ニ引付",
+      "image_sha256": "31589370d286ad4e667b368e47e09cf54be7a2ad81614ac6c2afb38b08e40b4f",
+      "image_bbox": [
+        495,
+        324,
+        566,
+        1158
+      ],
+      "reason": "ク下短筆近シ／メ，門內筆雜有背透；保留候選。",
+      "independent_candidate": "ヲヌルクメ用ヒテ醫ヲマツベシ其間ニ引付"
+    },
+    {
+      "unit": "f015-left-c10",
+      "frame": 15,
+      "side": "left",
+      "before": "ヲシメタキヲ少ク用テ良鼻杯不通トテ鼻ヨ",
+      "image_sha256": "31589370d286ad4e667b368e47e09cf54be7a2ad81614ac6c2afb38b08e40b4f",
+      "image_bbox": [
+        376,
+        323,
+        450,
+        1163
+      ],
+      "reason": "良下方字見草頭與分叉底腳，採薬；首四符與杯／抔留待逐碼核定。",
+      "independent_candidate": "ヲ少メタキヲ少シ用テ良薬杯不通トテ鼻ヨ"
+    },
+    {
+      "unit": "f015-left-c11",
+      "frame": 15,
+      "side": "left",
+      "before": "リ吹入又ハ灸ナトスユル事大ニ惡キコトニ",
+      "image_sha256": "31589370d286ad4e667b368e47e09cf54be7a2ad81614ac6c2afb38b08e40b4f",
+      "image_bbox": [
+        321,
+        323,
+        387,
+        1171
+      ],
+      "reason": "ス後ユ／ヱ留候選，末符斜鉤長，原稿ニ與原讀也均可比對。",
+      "independent_candidate": "リ吹入又ハ灸ナトスヱル支大ニ悪キコト也"
+    },
+    {
+      "unit": "f015-left-c12",
+      "frame": 15,
+      "side": "left",
+      "before": "大音ニテ喚醒スコト無益ニ脊ト胸腹ト□撫",
+      "image_sha256": "31589370d286ad4e667b368e47e09cf54be7a2ad81614ac6c2afb38b08e40b4f",
+      "image_bbox": [
+        261,
+        321,
+        333,
+        1156
+      ],
+      "reason": "大下一字上有士樣、下見罩頭，聲／音同留候選。胸腹下面黑墨遮書筆，保留□及後續撫字。",
+      "independent_candidate": "大音ニテ喚醒スコト無益也脊ト胸腹ナ□撫"
+    },
+    {
+      "unit": "f016-right-c01",
+      "frame": 16,
+      "side": "right",
+      "before": "テ穩ルベシ",
+      "image_sha256": "2b141167037ffd1858640b273941c6403135d56986fd509e72fd9de7bba0bc94",
+      "image_bbox": [
+        1657,
+        320,
+        1727,
+        550
+      ],
+      "reason": "テ後字左禾系形、右多短折，穩／緩／撫的字形候選。原稿穩近記仍可讀，但不取消疑讀。",
+      "independent_candidate": "テ撫ルベシ"
+    },
+    {
+      "unit": "f016-right-c02",
+      "frame": 16,
+      "side": "right",
+      "before": "一病出シ子半日モ過テ大便繁ク下レハ腹中ノ",
+      "image_sha256": "2b141167037ffd1858640b273941c6403135d56986fd509e72fd9de7bba0bc94",
+      "image_bbox": [
+        1583,
+        276,
+        1653,
+        1168
+      ],
+      "reason": "シ下字上橫及下鉤近子，亦可能是テ形異筆，字界明確，古文連讀不能單獨裁定。",
+      "independent_candidate": "一病出シテ半日モ過テ大便繁ク下レハ腹中ノ"
+    },
+    {
+      "unit": "f016-right-c04",
+      "frame": 16,
+      "side": "right",
+      "before": "シ味噌汁タマリ塩ノ類ヲヨキホドニクワユ",
+      "image_sha256": "2b141167037ffd1858640b273941c6403135d56986fd509e72fd9de7bba0bc94",
+      "image_bbox": [
+        1464,
+        320,
+        1535,
+        1165
+      ],
+      "reason": "最後兩字的首筆折成框，末筆近ユ或ヱ，クワユ／クハヱ均保留。",
+      "independent_candidate": "シ味噌汁タマリ塩ノ類ヲヨキホドニクハヱ"
+    },
+    {
+      "unit": "f016-right-c05",
+      "frame": 16,
+      "side": "right",
+      "before": "用ユヘシ淡キ粥米湯斗リニテハ藥ヲウケヌ",
+      "image_sha256": "2b141167037ffd1858640b273941c6403135d56986fd509e72fd9de7bba0bc94",
+      "image_bbox": [
+        1403,
+        325,
+        1476,
+        1153
+      ],
+      "reason": "用下兩小橫近ニ，ユ讀法的下橫延伸筆不顯；藥／薬依初錄保留近形。",
+      "independent_candidate": "用ニベシ淡キ粥米湯斗リニテハ薬ヲウケヌ"
+    },
+    {
+      "unit": "f016-right-c06",
+      "frame": 16,
+      "side": "right",
+      "before": "様ナルモノニ塩味噌絶レハ湯水通リ難シ此",
+      "image_sha256": "2b141167037ffd1858640b273941c6403135d56986fd509e72fd9de7bba0bc94",
+      "image_bbox": [
+        1365,
+        323,
+        1436,
+        1157
+      ],
+      "reason": "塩前一形是單筆連長鉤，與前頁也近形同；絕下轉折完整，可保留レ。",
+      "independent_candidate": "様ナルモノ也塩味噌絶シハ湯水通リ難シ此"
+    },
+    {
+      "unit": "f016-right-c08",
+      "frame": 16,
+      "side": "right",
+      "before": "一此病人ニ藥ヨク適ヘハ毒氣ハヤクヌケテ治",
+      "image_sha256": "2b141167037ffd1858640b273941c6403135d56986fd509e72fd9de7bba0bc94",
+      "image_bbox": [
+        1239,
+        277,
+        1311,
+        1169
+      ],
+      "reason": "ヨ前字草頭和底部長橫接合，藥／薬構形候選。",
+      "independent_candidate": "一此病人ニ薬ヨク適ヘハ毒氣ハヤクヌケテ治"
+    },
+    {
+      "unit": "f016-right-c11",
+      "frame": 16,
+      "side": "right",
+      "before": "ヒキ付ナリ治スル事アリハヤク治シタリト",
+      "image_sha256": "2b141167037ffd1858640b273941c6403135d56986fd509e72fd9de7bba0bc94",
+      "image_bbox": [
+        1065,
+        325,
+        1132,
+        1152
+      ],
+      "reason": "ナ下見細斜筆與長彎筆，ク／リ需並置同筆跡再判；事以同附篇省形近記。",
+      "independent_candidate": "ヒキ付ナク治スル支アリハヤク治シタリト"
+    },
+    {
+      "unit": "f016-right-c12",
+      "frame": 16,
+      "side": "right",
+      "before": "テ熱病ニアラス油斷スヘカラス又ハ痢病ト",
+      "image_sha256": "2b141167037ffd1858640b273941c6403135d56986fd509e72fd9de7bba0bc94",
+      "image_bbox": [
+        1008,
+        325,
+        1079,
+        1146
+      ],
+      "reason": "油下斷形與断讀法均留，未加濁點。尾段痢／疳待比同手。",
+      "independent_candidate": "テ熱病ニアラス油断スベカラズ又ハ痢病ト"
+    },
+    {
+      "unit": "f016-left-c01",
+      "frame": 16,
+      "side": "left",
+      "before": "ナリ脾胃虛トナリ小疳トナルモアリ油斷ス",
+      "image_sha256": "2b141167037ffd1858640b273941c6403135d56986fd509e72fd9de7bba0bc94",
+      "image_bbox": [
+        889,
+        317,
+        973,
+        1143
+      ],
+      "reason": "小下疒內下段見突出竪線，疑痺，初錄疳與原讀痊亦留。底部不見另欄。",
+      "independent_candidate": "ナリ脾胃虚トナリ小痊トナルモアリ油断ス"
+    },
+    {
+      "unit": "f017-left-c01",
+      "frame": 17,
+      "side": "left",
+      "before": "□□□",
+      "image_sha256": "ec58447e91e6fce62e74e886d47a7a22bf52375771c9751a500ddc32c1058131",
+      "image_bbox": [
+        255,
+        1057,
+        311,
+        1212
+      ],
+      "reason": "左下黑墨多筆交叉，下端末字似有框口及鉤，難讀字數與來源，仍記□□□及初錄兩組候選。",
+      "independent_candidate": "□□□"
+    }
+  ],
+  "review_counts": {
+    "classical_chinese_main": {
+      "units": 149,
+      "changed_proposals": 22,
+      "units_with_unresolved_candidates": 79,
+      "decision_states": {
+        "retained": 11,
+        "agreement": 52,
+        "unresolved": 64,
+        "partial": 15,
+        "changed": 7
+      }
+    },
+    "japanese_appendix": {
+      "units": 74,
+      "changed_proposals": 13,
+      "units_with_unresolved_candidates": 44,
+      "decision_states": {
+        "agreement": 10,
+        "retained": 16,
+        "changed": 4,
+        "unresolved": 35,
+        "partial": 9
+      }
+    },
+    "paratext": {
+      "units": 15,
+      "changed_proposals": 2,
+      "units_with_unresolved_candidates": 4,
+      "decision_states": {
+        "retained": 8,
+        "changed": 2,
+        "unresolved": 4,
+        "agreement": 1
+      }
+    }
+  },
+  "initial_base_sha256": "1e8342a21ef6f81eb9cf7de22e9a71ce1bd45c8b8c9e4aadfeb325a8fff5fd1d",
+  "original_frames_verified": 18,
+  "layer_scope": "原圖全幅18張。漢文主篇與和文附篇分層。插籤、題籤、印記、後見返書寫分列。",
+  "red_marks": "朱點只做影像層視覺確認。初錄碼位附記未逐點裁定，字數變動時不可直接轉用初錄附記。",
+  "changed_units_in_release": 33,
+  "units_with_pending_readings_in_release": 128
+}

@@ -7,10 +7,10 @@
     "source": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00002628",
     "manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002628/manifest.json",
     "language": "lzh",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "date": "2026-11-22",
-    "quality_zh": "AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
-    "quality_en": "AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
+    "quality_zh": "逐幅回圖，比對獨立讀稿及原初錄，採用 33 項回圖訂正。疑讀、藏印或細小批注按實際可辨範圍保留。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
+    "quality_en": "Source-image review compared independent observations with the initial transcription and records 33 image-supported changes. Uncertain readings remain marked. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -103,7 +103,7 @@
             {
               "id": "f002-center-c02",
               "role": "modern_shelf_label",
-              "text": "コ132",
+              "text": "富士川本　コ　132",
               "language": "und",
               "editorial_note": "藍帙脊下近底貼籤"
             }
@@ -144,7 +144,7 @@
             {
               "id": "f003-center-c01",
               "role": "modern_shelf_label",
-              "text": "コ132",
+              "text": "富士川本　コ　132",
               "language": "und",
               "editorial_note": "原冊棕封書庫貼籤；上緣附請求記號"
             }
@@ -372,7 +372,7 @@
             {
               "id": "f006-right-c02",
               "role": "body",
-              "text": "救一□欲認其因而未知六氣所冒傷寒積痰癖虚",
+              "text": "救一□欲認其因而未知六氣所冒傷實積痰癖虚",
               "language": "lzh",
               "text_layer": "main_text",
               "editorial_note": "一後一字疑灸"
@@ -388,7 +388,7 @@
             {
               "id": "f006-right-c04",
               "role": "body",
-              "text": "衆初看為極危施參附大料徒俟斃而已正徳年中",
+              "text": "衆初看為至危施參附大料徒俟斃而已正徳年中",
               "language": "lzh",
               "text_layer": "main_text",
               "editorial_note": "首為衆候選"
@@ -524,7 +524,7 @@
             {
               "id": "f006-left-c07",
               "role": "body",
-              "text": "燥嗜肉如煮之食云々且有口候",
+              "text": "燥脂肉如虫之食云々且有口候",
               "language": "lzh",
               "text_layer": "main_text",
               "editorial_note": "前段小字形多疑；末候疑検"
@@ -618,7 +618,7 @@
             {
               "id": "f007-right-c04",
               "role": "prescription",
-              "text": "独菊莪索田查楂腹朴青山豆根射干雷查富子之",
+              "text": "独菊莪索田查枳腹朴青山豆根射干雷查富子之",
               "language": "lzh",
               "text_layer": "main_text",
               "editorial_note": "原多縮寫；芝/芍之類不推補"
@@ -682,7 +682,7 @@
             {
               "id": "f007-right-c12",
               "role": "prescription",
-              "text": "稜　莪　富　青　委　楂　實　水煎",
+              "text": "稜　莪　富　青　委　枳　實　水煎",
               "language": "lzh",
               "text_layer": "main_text",
               "editorial_note": "手寫簡稱；委疑枳"
@@ -722,7 +722,7 @@
             {
               "id": "f007-left-c04",
               "role": "prescription",
-              "text": "一方射干梔苓湯似傷風咳嗽者",
+              "text": "一方射干兜苓湯似傷風咳嗽者",
               "language": "lzh",
               "text_layer": "main_text",
               "editorial_note": null
@@ -730,7 +730,7 @@
             {
               "id": "f007-left-c05",
               "role": "prescription",
-              "text": "射　末　梔苓　桔　薄　蔘　花粉　貝　売",
+              "text": "射　末　兜苓　桔　薄　蔘　花粉　貝　売",
               "language": "lzh",
               "text_layer": "main_text",
               "editorial_note": "梔或芫"
@@ -770,7 +770,7 @@
             {
               "id": "f007-left-c10",
               "role": "prescription_minor",
-              "text": "辛五分",
+              "text": "辛五匁",
               "language": "lzh",
               "text_layer": "main_text",
               "editorial_note": "緊靠第8欄末左細行；此行和第9欄讀序待核"
@@ -872,7 +872,7 @@
             {
               "id": "f008-right-c06",
               "role": "prescription",
-              "text": "沉　楂各五匁　富　實　朴各七匁　稜　莪　陳",
+              "text": "沉　枳各五匁　富　實　朴各七匁　稜　莪　陳",
               "language": "lzh",
               "text_layer": "main_text",
               "editorial_note": null
@@ -936,7 +936,7 @@
             {
               "id": "f008-left-c01",
               "role": "prescription",
-              "text": "貝二匁　姜黄一匁　辛　陳各六分　青　朴各七分　荊",
+              "text": "貝二匁　姜黄一匁　辛　陳各六分　香　朴各七分　荊",
               "language": "lzh",
               "text_layer": "main_text",
               "editorial_note": "劑量小字，依畫面所在大欄續錄"
@@ -992,7 +992,7 @@
             {
               "id": "f008-left-c08",
               "role": "prescription",
-              "text": "荊　防各一匁　芥三分　陳　青　翹各八分　右水",
+              "text": "荊　防各一匁　芎三分　陳　青　翹各八分　右水",
               "language": "lzh",
               "text_layer": "main_text",
               "editorial_note": null
@@ -1000,7 +1000,7 @@
             {
               "id": "f008-left-c09",
               "role": "prescription",
-              "text": "煎食不消加查富心煩熱去芥加梔黒炒有積加",
+              "text": "煎食不消加查富心煩熱去芎加梔黒炒有積加",
               "language": "lzh",
               "text_layer": "main_text",
               "editorial_note": null
@@ -1008,7 +1008,7 @@
             {
               "id": "f008-left-c10",
               "role": "prescription",
-              "text": "楂痰多加貝歸氣壅加委莎血壅加桃紅鬱悶不",
+              "text": "枳痰多加貝歸氣壅加委莎血壅加桃紅鬱悶不",
               "language": "lzh",
               "text_layer": "main_text",
               "editorial_note": null
@@ -1016,7 +1016,7 @@
             {
               "id": "f008-left-c11",
               "role": "prescription",
-              "text": "舒加辛食積加稜莪大便不通加通沉喉痛去芥",
+              "text": "舒加辛食積加稜莪大便不通加通沢喉痛去芎",
               "language": "lzh",
               "text_layer": "main_text",
               "editorial_note": null
@@ -1024,7 +1024,7 @@
             {
               "id": "f008-left-c12",
               "role": "prescription",
-              "text": "加薄射干大力子咳嗽加末梔苓",
+              "text": "加薄射干大力子咳嗽加末兜苓",
               "language": "lzh",
               "text_layer": "main_text",
               "editorial_note": "大力子據原字，保留他名候選"
@@ -1086,7 +1086,7 @@
             {
               "id": "f009-right-c05",
               "role": "prescription",
-              "text": "防　委　索　吉　売各七分　富二匁　楂　銀",
+              "text": "防　委　索　吉　売各七分　富二匁　枳　銀",
               "language": "lzh",
               "text_layer": "main_text",
               "editorial_note": null
@@ -1428,7 +1428,7 @@
             {
               "id": "f010-left-c07",
               "role": "prescription",
-              "text": "化痰　貝　歸　来　梔苓　杏　愛　関　雄黄",
+              "text": "化痰　貝　歸　来　兜苓　杏　愛　関　雄黄",
               "language": "lzh",
               "text_layer": "main_text",
               "editorial_note": "末三物名縮記，先從手稿所見"
@@ -1444,7 +1444,7 @@
             {
               "id": "f010-left-c09",
               "role": "prescription",
-              "text": "行血破瘀　桃　芍　紅　銀　茜草　辛　姜黄",
+              "text": "行血破瘀　桃　芎　紅　銀　茜草　辛　姜黄",
               "language": "lzh",
               "text_layer": "main_text",
               "editorial_note": null
@@ -1586,7 +1586,7 @@
             {
               "id": "f011-right-c12",
               "role": "prescription",
-              "text": "不可誤用薬品　熟芐　芍　参　附　耆　伽",
+              "text": "不可謾用薬品　熟芐　芍　参　附　耆　伽",
               "language": "lzh",
               "text_layer": "main_text",
               "editorial_note": "續第11幅左，字不依後世詞表統一"
@@ -1679,7 +1679,7 @@
             {
               "id": "f012-left-c04",
               "role": "body",
-              "text": "一此病ノ様子一ヤウニ定ナシト云トモ大方ハ俄",
+              "text": "一此病ノ様子一ヤウニ定ナシト云モ大方ハ俄",
               "language": "ja",
               "text_layer": "main_text",
               "editorial_note": "定下字似土形，暫讀ナ；云下是短折與卷筆相連的單組符，暫轉錄トモ，另有ド候選；朱點約在第17字後（本欄Unicode碼位，一起算）。"
@@ -1874,7 +1874,7 @@
             {
               "id": "f014-right-c06",
               "role": "body",
-              "text": "シ只氣分沈ミ陷ルヤウニ重クネタキ様ニテ",
+              "text": "シ只氣分沈ミ陷ルヤウニ重クネタキ枕ニテ",
               "language": "ja",
               "text_layer": "main_text",
               "editorial_note": "ネ呈子形；様字左見木，右部短撇折，字形候選様／模；朱點約在第1、13字後（本欄Unicode碼位，一起算）。"
@@ -1922,7 +1922,7 @@
             {
               "id": "f014-right-c12",
               "role": "body",
-              "text": "ハナリカタシ或ハ不眠シ久ヒ紛スルモアリ",
+              "text": "ハナリカタシ或ハ不眠シ欠ヒ紛スルモアリ",
               "language": "ja",
               "text_layer": "main_text",
               "editorial_note": "「久ヒ紛」疑「久ヒ紛／久ヒ勞」；小字淡；朱點約在第6、19字後（本欄Unicode碼位，一起算）。"
@@ -1970,7 +1970,7 @@
             {
               "id": "f014-left-c05",
               "role": "body",
-              "text": "茶粥米湯白湯ホモ熱キハ禁物トヌルクシ用",
+              "text": "茶粥米湯白湯ホモ熱キハ禁物也ヌルクシ用",
               "language": "ja",
               "text_layer": "main_text",
               "editorial_note": "米湯後有白湯；ホ／ト合寫看似ホ，保留疑讀。禁物下短斜字可能ト／ニ。；朱點約在第14字後（本欄Unicode碼位，一起算）。"
@@ -2026,7 +2026,7 @@
             {
               "id": "f014-left-c12",
               "role": "body",
-              "text": "非ス病氣ト云テ毒ノ氣ト其毒氣鼻口ヨリ入",
+              "text": "非ス病氣ト云テ毒ノ氣也其毒氣鼻口ヨリ入",
               "language": "ja",
               "text_layer": "main_text",
               "editorial_note": "朱點約在第2、11字後（本欄Unicode碼位，一起算）。"
@@ -2072,7 +2072,7 @@
             {
               "id": "f015-right-c03",
               "role": "body",
-              "text": "ニ氣ウカツキテ引付ヲナスニ手足甚冷ト云",
+              "text": "ニ氣ウカツキテ引付ヲナス也手足甚冷ト云",
               "language": "ja",
               "text_layer": "main_text",
               "editorial_note": "ナス下字草形似一鉤；暫讀ニ，與下一欄起首連讀；朱點約在第13字後（本欄Unicode碼位，一起算）。"
@@ -2088,7 +2088,7 @@
             {
               "id": "f015-right-c05",
               "role": "body",
-              "text": "内ハ熱毒ノ病ニ此毒氣内ニ有ル閒ハ矢ノ中リ",
+              "text": "内ハ熱毒ノ病也此毒氣内ニ有ル閒ハ矢ノ中リ",
               "language": "ja",
               "text_layer": "main_text",
               "editorial_note": "「矢ノ中リ」之ノ有兩短筆，ノ／ニ待核；朱點約在第7、16字後（本欄Unicode碼位，一起算）。"
@@ -2128,7 +2128,7 @@
             {
               "id": "f015-right-c10",
               "role": "body",
-              "text": "不去故ナリ吐モ瀉モ汗モ毒氣ノ洩ルヽ道ニ",
+              "text": "不去故ナリ吐モ瀉モ汗モ毒氣ノ洩ルヽ道也",
               "language": "ja",
               "text_layer": "main_text",
               "editorial_note": "道下短鉤近ニ，暫錄；洩下重文號淡；朱點約在第5、19字後（本欄Unicode碼位，一起算）。"
@@ -2208,7 +2208,7 @@
             {
               "id": "f015-left-c07",
               "role": "body",
-              "text": "ニヨシ若醫者ヲ招ク事遠クハ先此金汁斗リ",
+              "text": "ニヨシ若醫者ヲ招ク事遅クハ先此金汁斗リ",
               "language": "ja",
               "text_layer": "main_text",
               "editorial_note": "遠旁部草寫待核逡／遠；斗作限量詞；朱點約在第3、13字後（本欄Unicode碼位，一起算）。"
@@ -2232,7 +2232,7 @@
             {
               "id": "f015-left-c10",
               "role": "body",
-              "text": "ヲシメタキヲ少ク用テ良鼻杯不通トテ鼻ヨ",
+              "text": "ヲシメタキヲ少ク用テ良薬杯不通トテ鼻ヨ",
               "language": "ja",
               "text_layer": "main_text",
               "editorial_note": "首四符淡，存候選ヲシメタキ／冷メタキ；杯左形似木，可能抔；朱點約在第11、17字後（本欄Unicode碼位，一起算）。"
@@ -2294,7 +2294,7 @@
             {
               "id": "f016-right-c03",
               "role": "body",
-              "text": "脂拔テ元氣持カタシ粥カ米湯カ折ヲシ灌ヘ",
+              "text": "脂拔テ元氣持カタシ粥カ米湯カ折フシ灌ヘ",
               "language": "ja",
               "text_layer": "main_text",
               "editorial_note": "折以下近「ヲシ」，或「ヲリ」；灌後片假名淡；朱點約在第3、9字後（本欄Unicode碼位，一起算）。"
@@ -2318,7 +2318,7 @@
             {
               "id": "f016-right-c06",
               "role": "body",
-              "text": "様ナルモノニ塩味噌絶レハ湯水通リ難シ此",
+              "text": "様ナルモノ也塩味噌絶レハ湯水通リ難シ此",
               "language": "ja",
               "text_layer": "main_text",
               "editorial_note": "朱點約在第6、12、18字後（本欄Unicode碼位，一起算）。"
@@ -2475,7 +2475,7 @@
     "han_main_columns": 149,
     "japanese_main_columns": 74,
     "han_codepoints_including_layout_spaces": 2203,
-    "japanese_codepoints": 1357,
+    "japanese_codepoints": 1356,
     "paratext_units": 15,
     "coded_unresolved_spans": 4,
     "units_with_notes": 146,
@@ -2559,6 +2559,11 @@
       "type": "manuscript_red_point",
       "after_codepoint_approximate_one_based": [
         17
+      ],
+      "anchor_text_version": "0.1.0",
+      "status": "approximate initial recording, spot not reviewed glyph by glyph",
+      "tentative_after_codepoint_in_v0_2_0": [
+        16
       ]
     },
     {
@@ -2674,7 +2679,9 @@
       "after_codepoint_approximate_one_based": [
         1,
         13
-      ]
+      ],
+      "anchor_text_version": "0.1.0",
+      "status": "approximate initial recording, spot not reviewed glyph by glyph"
     },
     {
       "unit_id": "f014-right-c07",
@@ -2721,7 +2728,9 @@
       "after_codepoint_approximate_one_based": [
         6,
         19
-      ]
+      ],
+      "anchor_text_version": "0.1.0",
+      "status": "approximate initial recording, spot not reviewed glyph by glyph"
     },
     {
       "unit_id": "f014-left-c01",
@@ -2761,7 +2770,9 @@
       "type": "manuscript_red_point",
       "after_codepoint_approximate_one_based": [
         14
-      ]
+      ],
+      "anchor_text_version": "0.1.0",
+      "status": "approximate initial recording, spot not reviewed glyph by glyph"
     },
     {
       "unit_id": "f014-left-c06",
@@ -2815,7 +2826,9 @@
       "after_codepoint_approximate_one_based": [
         2,
         11
-      ]
+      ],
+      "anchor_text_version": "0.1.0",
+      "status": "approximate initial recording, spot not reviewed glyph by glyph"
     },
     {
       "unit_id": "f015-right-c01",
@@ -2839,7 +2852,9 @@
       "type": "manuscript_red_point",
       "after_codepoint_approximate_one_based": [
         13
-      ]
+      ],
+      "anchor_text_version": "0.1.0",
+      "status": "approximate initial recording, spot not reviewed glyph by glyph"
     },
     {
       "unit_id": "f015-right-c04",
@@ -2856,7 +2871,9 @@
       "after_codepoint_approximate_one_based": [
         7,
         16
-      ]
+      ],
+      "anchor_text_version": "0.1.0",
+      "status": "approximate initial recording, spot not reviewed glyph by glyph"
     },
     {
       "unit_id": "f015-right-c06",
@@ -2895,7 +2912,9 @@
       "after_codepoint_approximate_one_based": [
         5,
         19
-      ]
+      ],
+      "anchor_text_version": "0.1.0",
+      "status": "approximate initial recording, spot not reviewed glyph by glyph"
     },
     {
       "unit_id": "f015-right-c11",
@@ -2959,7 +2978,9 @@
       "after_codepoint_approximate_one_based": [
         3,
         13
-      ]
+      ],
+      "anchor_text_version": "0.1.0",
+      "status": "approximate initial recording, spot not reviewed glyph by glyph"
     },
     {
       "unit_id": "f015-left-c08",
@@ -2984,7 +3005,9 @@
       "after_codepoint_approximate_one_based": [
         11,
         17
-      ]
+      ],
+      "anchor_text_version": "0.1.0",
+      "status": "approximate initial recording, spot not reviewed glyph by glyph"
     },
     {
       "unit_id": "f015-left-c11",
@@ -3023,7 +3046,9 @@
       "after_codepoint_approximate_one_based": [
         3,
         9
-      ]
+      ],
+      "anchor_text_version": "0.1.0",
+      "status": "approximate initial recording, spot not reviewed glyph by glyph"
     },
     {
       "unit_id": "f016-right-c04",
@@ -3048,7 +3073,9 @@
         6,
         12,
         18
-      ]
+      ],
+      "anchor_text_version": "0.1.0",
+      "status": "approximate initial recording, spot not reviewed glyph by glyph"
     },
     {
       "unit_id": "f016-right-c07",

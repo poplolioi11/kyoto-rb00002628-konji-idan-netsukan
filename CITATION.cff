@@ -2,7 +2,7 @@ cff-version: 1.2.0
 type: dataset
 title: '今時醫談熱癇略鈔（京都大學富士川文庫 コ/132） / Konji idan netsukan ryakushō [Notes on Netsukan
   in Contemporary Medical Discourse]: Transcription Dataset'
-version: 0.1.0
+version: 0.2.0
 message: Please cite this dataset version and source copy.
 authors:
 - family-names: Chu
