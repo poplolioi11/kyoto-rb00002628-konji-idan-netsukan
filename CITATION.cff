@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+type: dataset
+title: '今時醫談熱癇略鈔（京都大學富士川文庫 コ/132） / Konji idan netsukan ryakushō [Notes on Netsukan
+  in Contemporary Medical Discourse]: Transcription Dataset'
+version: 0.1.0
+message: Please cite this dataset version and source copy.
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+date-released: '2026-11-22'
+repository-code: https://github.com/poplolioi11/kyoto-rb00002628-konji-idan-netsukan
+keywords:
+- 今時醫談熱癇略鈔
+- 熱癇
+- 京都大學富士川文庫
+- 漢文醫書
+- 近世日本醫學
+- Kyoto University
+- Netsukan
+- History of Medicine
+- Literary Chinese
+- Japanese manuscripts
+- Medical nosology
+- TEI

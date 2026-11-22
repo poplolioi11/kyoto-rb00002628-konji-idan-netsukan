@@ -1,0 +1,3180 @@
+{
+  "metadata": {
+    "dataset_title": "今時醫談熱癇略鈔（京都大學富士川文庫 コ/132） / Konji idan netsukan ryakushō [Notes on Netsukan in Contemporary Medical Discourse]: Transcription Dataset",
+    "historical_title": "今時醫談熱癇略鈔",
+    "historical_author": null,
+    "source_id": "京都大學附屬圖書館富士川文庫 コ/132（RB00002628）",
+    "source": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00002628",
+    "manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002628/manifest.json",
+    "language": "lzh",
+    "version": "0.1.0",
+    "date": "2026-11-22",
+    "quality_zh": "AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
+    "quality_en": "AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    },
+    "initial_sha256": "1e8342a21ef6f81eb9cf7de22e9a71ce1bd45c8b8c9e4aadfeb325a8fff5fd1d"
+  },
+  "pages": [
+    {
+      "image": 1,
+      "label": "1",
+      "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p1",
+      "locator": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p1",
+      "sha256": "7924713148c136b1468c961b7d1321326dbbdab6f6259c75bba812d6f11054a1",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [],
+          "notes": [
+            "攝影背景與藍帙"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f001-left-c01",
+              "role": "case_label",
+              "text": "今時医談熱癇畧鈔一册",
+              "language": "und",
+              "text_layer": "paratext",
+              "editorial_note": "藍帙題籤；熱字右邊行草"
+            }
+          ],
+          "notes": [
+            "藍帙封面題籤"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 2,
+      "label": "2",
+      "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p2",
+      "locator": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p2",
+      "sha256": "b0fd53d8a73ee6ade85451eaac3256a461182c68700e0cc41e22972f20071c32",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [],
+          "notes": [
+            "藍帙展開無文"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f002-left-c01",
+              "role": "duplicate_case_label",
+              "text": "今時医談熱癇畧鈔一册",
+              "language": "und",
+              "text_layer": "paratext",
+              "editorial_note": "與幅1為同帙同籤開合重拍；排除重複讀文"
+            }
+          ],
+          "notes": [
+            "藍帙封面題籤重照"
+          ]
+        },
+        {
+          "side": "paratext",
+          "units": [
+            {
+              "id": "f002-center-c01",
+              "role": "case_spine",
+              "text": "今時医談熱癇畧鈔一册",
+              "language": "und",
+              "editorial_note": "帙脊細籤；小字疑與左籤同"
+            },
+            {
+              "id": "f002-center-c02",
+              "role": "modern_shelf_label",
+              "text": "コ132",
+              "language": "und",
+              "editorial_note": "藍帙脊下近底貼籤"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "image": 3,
+      "label": "3",
+      "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p3",
+      "locator": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p3",
+      "sha256": "31e6f04b3c697a355393d0ba21504201773271aeb6b2353df9d16b76eda73ea8",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [],
+          "notes": [
+            "棕原冊面"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [],
+          "notes": [
+            "棕原冊面"
+          ]
+        },
+        {
+          "side": "paratext",
+          "units": [
+            {
+              "id": "f003-center-c01",
+              "role": "modern_shelf_label",
+              "text": "コ132",
+              "language": "und",
+              "editorial_note": "原冊棕封書庫貼籤；上緣附請求記號"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "image": 4,
+      "label": "4",
+      "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p4",
+      "locator": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p4",
+      "sha256": "ca20b3f1d012797ee873798d40fc1cfbc2d3d05b5a40f4690ad9475283a8ef22",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [],
+          "notes": [
+            "卷首封裏"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [],
+          "notes": [
+            "薄紙見第5幅左藏印以及文字透背"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 5,
+      "label": "5",
+      "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p5",
+      "locator": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p5",
+      "sha256": "f6f9fed7002ef9fd47f94c87c5dbc463d502655d346cd9af3ecb65c9c698112a",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [],
+          "notes": [
+            "卷首無正面文字"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f005-left-c01",
+              "role": "inner_title",
+              "text": "今時醫談熱癇畧鈔",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "首字與藏印交疊；漢文篇題"
+            },
+            {
+              "id": "f005-left-c02",
+              "role": "body",
+              "text": "以此病名熱癇其意詳于本書",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "以所在欄首覆藏章，兩層不合抄"
+            },
+            {
+              "id": "f005-left-c03",
+              "role": "body",
+              "text": "不分四時不論男婦老少卒然惡寒發熱或無寒熱",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f005-left-c04",
+              "role": "body",
+              "text": "脉初洪大常數口渴引飲吐瀉或無吐腸鳴大便溏",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f005-left-c05",
+              "role": "body",
+              "text": "瀉一二行須臾指末冷或不冷頭痛或無頭痛此証",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f005-left-c06",
+              "role": "body",
+              "text": "發而一二時或半日一日迺發暈或暴厥也然下痢",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "迺字草樣下緣與逞相近"
+            },
+            {
+              "id": "f005-left-c07",
+              "role": "body",
+              "text": "便色青白或褐色帶紅或便如熱湯也若小兒者恰",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f005-left-c08",
+              "role": "body",
+              "text": "似驚風之狀口渴天吊直視手足搐搦掣急身體反",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f005-left-c09",
+              "role": "body",
+              "text": "張乃食頃若炊時而醒至其醒而喜眠睡頃刻復發",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f005-left-c10",
+              "role": "body",
+              "text": "如斯者數次若過一周時而三日則皆死矣大人患",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f005-left-c11",
+              "role": "body",
+              "text": "此病者多無卒厥惟睡眠昏沉大便溏泄無禁或自",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "卒／率字樣；承前第10欄的大人患"
+            },
+            {
+              "id": "f005-left-c12",
+              "role": "body",
+              "text": "利耳是病似驚風霍亂死不旋踵医者於兒者以為",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f005-left-c13",
+              "role": "library_stamp",
+              "text": "184766　大正7.3.31",
+              "language": "und",
+              "text_layer": "paratext",
+              "editorial_note": "卷首左上橢圓登錄印，依數字讀"
+            },
+            {
+              "id": "f005-left-c14",
+              "role": "library_stamp",
+              "text": "京都帝國大學圖書之印",
+              "language": "und",
+              "text_layer": "paratext",
+              "editorial_note": "卷首右上朱方印，篆讀待核"
+            },
+            {
+              "id": "f005-left-c15",
+              "role": "library_stamp",
+              "text": "富士川游寄贈",
+              "language": "und",
+              "text_layer": "paratext",
+              "editorial_note": "卷首右緣較上一朱長方印"
+            },
+            {
+              "id": "f005-left-c16",
+              "role": "library_stamp",
+              "text": "富士川氏藏",
+              "language": "und",
+              "text_layer": "paratext",
+              "editorial_note": "卷首右側中央朱長方印"
+            },
+            {
+              "id": "f005-left-c17",
+              "role": "provenance_stamp",
+              "text": "高嶋家藏",
+              "language": "und",
+              "text_layer": "paratext",
+              "editorial_note": "卷首右下朱方印；嶋／島候選"
+            }
+          ],
+          "notes": [
+            "漢文卷首、藏章及朱點"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 6,
+      "label": "6",
+      "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p6",
+      "locator": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p6",
+      "sha256": "289dc731fe3779228e2dbc2d9dd347fc178b0b258cad9e9a07542bdd094e7f25",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [
+            {
+              "id": "f006-right-c01",
+              "role": "body",
+              "text": "驚在壯者則以為霍乱卒痢不投温補灸炳而難十",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "炳或灼；末跨欄當合十救一"
+            },
+            {
+              "id": "f006-right-c02",
+              "role": "body",
+              "text": "救一□欲認其因而未知六氣所冒傷寒積痰癖虚",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "一後一字疑灸"
+            },
+            {
+              "id": "f006-right-c03",
+              "role": "body",
+              "text": "實因於何焉其發也飲食動作如常而忽然發起矣",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f006-right-c04",
+              "role": "body",
+              "text": "衆初看為極危施參附大料徒俟斃而已正徳年中",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "首為衆候選"
+            },
+            {
+              "id": "f006-right-c05",
+              "role": "body",
+              "text": "奈洲氏者寓張洲每遇此証便云似驚而非驚似暴",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "奈洲或栄洲；張洲字序照錄"
+            },
+            {
+              "id": "f006-right-c06",
+              "role": "body",
+              "text": "瀉而非暴瀉不可如之何也故譬之漁人乗孤舟遇",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f006-right-c07",
+              "role": "body",
+              "text": "暴風也然未曉之治法焉蓋勢張之漁人遇狂風震",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f006-right-c08",
+              "role": "body",
+              "text": "舩則呼曰遇早手也然此暴風起于海上也不能預",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "船/舩、早手（疑疾風的日語借詞），不規範化"
+            },
+            {
+              "id": "f006-right-c09",
+              "role": "body",
+              "text": "知焉雖素馴於海者未能辨晴雨雷震其為何之兆",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f006-right-c10",
+              "role": "body",
+              "text": "只俄然有狂風折桂拔禾之變故比此証云尒耳",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "桂或柱"
+            },
+            {
+              "id": "f006-right-c11",
+              "role": "section_title",
+              "text": "查考引據",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "位於兩段之間縮排獨欄"
+            },
+            {
+              "id": "f006-right-c12",
+              "role": "body",
+              "text": "仲景法曰少隂病下痢清水色純青者熱在裏也大",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f006-right-c13",
+              "role": "head_note",
+              "text": "也",
+              "language": "und",
+              "text_layer": "paratext",
+              "editorial_note": "黑字另書於上欄，近「知焉」上方，意義待核，不逕插"
+            }
+          ],
+          "notes": [
+            "續漢文立論至查考引據"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f006-left-c01",
+              "role": "body",
+              "text": "承氣湯下之云々又曰及于期則緩而救之則當以",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "期可疑"
+            },
+            {
+              "id": "f006-left-c02",
+              "role": "body",
+              "text": "寒藥養陰退陽但不合轉瀉若得陰氣漸生則可救",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f006-left-c03",
+              "role": "body",
+              "text": "宜凉膈散云々又原病式熱類論曰三焦為水榖轉",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f006-left-c04",
+              "role": "body",
+              "text": "化之道路熱氣甚則傳化失常而吐瀉霍乱火性燥",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f006-left-c05",
+              "role": "body",
+              "text": "動故也云々準繩曰有夏月脾胃伏熱大吐瀉當解",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f006-left-c06",
+              "role": "body",
+              "text": "暑熱不可專囘陽云々又医統曰一作客熱内結消",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "一作字序待核"
+            },
+            {
+              "id": "f006-left-c07",
+              "role": "body",
+              "text": "燥嗜肉如煮之食云々且有口候",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "前段小字形多疑；末候疑検"
+            },
+            {
+              "id": "f006-left-c08",
+              "role": "section_title",
+              "text": "認証大人小兒通用",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f006-left-c09",
+              "role": "body",
+              "text": "大熱煩渇　頭痛如裂　大便溏泄　大便無臭",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f006-left-c10",
+              "role": "body",
+              "text": "糞不青黒　昏沉不醒　胷中脹悶　心胸煩悶",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "欄內項目間以空格標視覺留空"
+            },
+            {
+              "id": "f006-left-c11",
+              "role": "body",
+              "text": "昏悶煩躁　昏迷沉重　煩躁喜眠　不睡喜欠",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f006-left-c12",
+              "role": "section_title",
+              "text": "熱癇疑似之間宜先用之試之方",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            }
+          ],
+          "notes": [
+            "續文及認証、入試方前題"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 7,
+      "label": "7",
+      "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p7",
+      "locator": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p7",
+      "sha256": "9b14f40dafdc79f916459a59c1b2b0d051fd06442a93efd7672ddf7d55431a90",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [
+            {
+              "id": "f007-right-c01",
+              "role": "prescription",
+              "text": "一方防風散瘧湯似風邪者",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "瘧字樣先暫"
+            },
+            {
+              "id": "f007-right-c02",
+              "role": "prescription",
+              "text": "防　陳　辛　金銀花　売　荊等分　水煎不用",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "字形売疑殼之省寫，保留候選"
+            },
+            {
+              "id": "f007-right-c03",
+              "role": "prescription",
+              "text": "姜或去荊芥用薄荷亦佳　又曰萎天花翹藿薷紫",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "萎或蔞"
+            },
+            {
+              "id": "f007-right-c04",
+              "role": "prescription",
+              "text": "独菊莪索田查楂腹朴青山豆根射干雷查富子之",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "原多縮寫；芝/芍之類不推補"
+            },
+            {
+              "id": "f007-right-c05",
+              "role": "prescription",
+              "text": "類須随証加減代用痘疹初発或外感之主方",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f007-right-c06",
+              "role": "prescription",
+              "text": "一方薄荷湯似暑邪者",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f007-right-c07",
+              "role": "prescription",
+              "text": "薄　薷　翹各一匁　朴　銀　通各七分　水煎",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "翹／通右側劑量是細注，按見字續錄"
+            },
+            {
+              "id": "f007-right-c08",
+              "role": "prescription",
+              "text": "又方紫蘇厚朴湯前方不効則以此方",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f007-right-c09",
+              "role": "prescription",
+              "text": "蘇　薷　朴　売　紅　青　陳　富　查　水",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f007-right-c10",
+              "role": "prescription",
+              "text": "煎",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "此單字另欄"
+            },
+            {
+              "id": "f007-right-c11",
+              "role": "prescription",
+              "text": "一方稜木湯似食積者",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "稜與棱形待核"
+            },
+            {
+              "id": "f007-right-c12",
+              "role": "prescription",
+              "text": "稜　莪　富　青　委　楂　實　水煎",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "手寫簡稱；委疑枳"
+            }
+          ],
+          "notes": [
+            "方名與藥味"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f007-left-c01",
+              "role": "prescription",
+              "text": "又方紫朴湯治証同",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f007-left-c02",
+              "role": "prescription",
+              "text": "朴　查　富　稜　莪　實　翹　青　陳　辛",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f007-left-c03",
+              "role": "prescription",
+              "text": "水煎",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f007-left-c04",
+              "role": "prescription",
+              "text": "一方射干梔苓湯似傷風咳嗽者",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f007-left-c05",
+              "role": "prescription",
+              "text": "射　末　梔苓　桔　薄　蔘　花粉　貝　売",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "梔或芫"
+            },
+            {
+              "id": "f007-left-c06",
+              "role": "prescription",
+              "text": "菊　銀　水煎",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f007-left-c07",
+              "role": "prescription",
+              "text": "一方沉香欝金散似寒邪無熱者",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f007-left-c08",
+              "role": "prescription",
+              "text": "沉　蜜　蔚各一匁　委三匁　降眞香",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "藥名縮記；較小兩行另見"
+            },
+            {
+              "id": "f007-left-c09",
+              "role": "prescription_minor",
+              "text": "二匁玉衡右細",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "緊靠第8欄末右細行"
+            },
+            {
+              "id": "f007-left-c10",
+              "role": "prescription_minor",
+              "text": "辛五分",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "緊靠第8欄末左細行；此行和第9欄讀序待核"
+            },
+            {
+              "id": "f007-left-c11",
+              "role": "prescription",
+              "text": "右細末砂仁湯下之",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f007-left-c12",
+              "role": "prescription",
+              "text": "又方三香散過服寒冷凝滯者",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f007-left-c13",
+              "role": "prescription",
+              "text": "蜜　沉　白檀等分右細末砂仁湯下",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f007-left-c14",
+              "role": "prescription",
+              "text": "又方三香丸同症痞悶者",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "起首又方另行；丸二筆不併背景"
+            }
+          ],
+          "notes": [
+            "方書連續"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 8,
+      "label": "8",
+      "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p8",
+      "locator": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p8",
+      "sha256": "7b3e450d90963fb99fb42c901b91b4f4baa2c82a0ea17129ff3cdd5983bcb140",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [
+            {
+              "id": "f008-right-c01",
+              "role": "prescription",
+              "text": "蜜　沉　檀各五匁　砂　富各八匁　五灵子六匁",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "續第7幅左末；蜜／密"
+            },
+            {
+              "id": "f008-right-c02",
+              "role": "prescription",
+              "text": "右水為丸",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f008-right-c03",
+              "role": "prescription",
+              "text": "一方藿香湯感穢氣者",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f008-right-c04",
+              "role": "prescription",
+              "text": "藿　莎各四匁　薄七分　売　查　翹各十匁　水煎",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "莎／莎；薄下細注七分"
+            },
+            {
+              "id": "f008-right-c05",
+              "role": "prescription",
+              "text": "一方沉香丸胸腹脹痛迷悶昏沉者",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f008-right-c06",
+              "role": "prescription",
+              "text": "沉　楂各五匁　富　實　朴各七匁　稜　莪　陳",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f008-right-c07",
+              "role": "prescription",
+              "text": "天仙子各六匁　醜　委各四匁　蜜　姜黄各三匁",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "醜、委為待辨縮記，不展開"
+            },
+            {
+              "id": "f008-right-c08",
+              "role": "prescription",
+              "text": "右十三味為末砂仁湯下",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f008-right-c09",
+              "role": "prescription",
+              "text": "一方當飯枳實湯消食順氣和血",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "當飯或當歸的抄本字樣，保持候選"
+            },
+            {
+              "id": "f008-right-c10",
+              "role": "prescription",
+              "text": "飯尾　売　栩各一匁　查　富各二各　朴八分　水",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "飯尾與上一欄首語呼應，疑當歸／歸尾；二各疑二匁"
+            },
+            {
+              "id": "f008-right-c11",
+              "role": "prescription",
+              "text": "煎",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "上一欄水字延續"
+            },
+            {
+              "id": "f008-right-c12",
+              "role": "prescription",
+              "text": "一方清氣化痰湯痰氣壅盛者盛玉衡作案",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "末「盛玉衡」四字變小；盛前字或據字的俗寫"
+            }
+          ],
+          "notes": [
+            "方書連續"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f008-left-c01",
+              "role": "prescription",
+              "text": "貝二匁　姜黄一匁　辛　陳各六分　青　朴各七分　荊",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "劑量小字，依畫面所在大欄續錄"
+            },
+            {
+              "id": "f008-left-c02",
+              "role": "prescription",
+              "text": "六分　委五分水煎冲砂仁末服",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f008-left-c03",
+              "role": "prescription",
+              "text": "一方烏氣順氣湯治内攻之劑",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "烏氣疑烏藥；不擬改原字"
+            },
+            {
+              "id": "f008-left-c04",
+              "role": "prescription",
+              "text": "莪　富　索　稜　歸各一分　売　青　委各八",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f008-left-c05",
+              "role": "prescription",
+              "text": "分　紅七分　莎四分　水煎",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "分接上一欄"
+            },
+            {
+              "id": "f008-left-c06",
+              "role": "prescription",
+              "text": "大人部小兒通用",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "縮排較下"
+            },
+            {
+              "id": "f008-left-c07",
+              "role": "prescription",
+              "text": "一方荊芥湯似鬱氣者",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f008-left-c08",
+              "role": "prescription",
+              "text": "荊　防各一匁　芥三分　陳　青　翹各八分　右水",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f008-left-c09",
+              "role": "prescription",
+              "text": "煎食不消加查富心煩熱去芥加梔黒炒有積加",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f008-left-c10",
+              "role": "prescription",
+              "text": "楂痰多加貝歸氣壅加委莎血壅加桃紅鬱悶不",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f008-left-c11",
+              "role": "prescription",
+              "text": "舒加辛食積加稜莪大便不通加通沉喉痛去芥",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f008-left-c12",
+              "role": "prescription",
+              "text": "加薄射干大力子咳嗽加末梔苓",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "大力子據原字，保留他名候選"
+            }
+          ],
+          "notes": [
+            "方書連續"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 9,
+      "label": "9",
+      "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p9",
+      "locator": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p9",
+      "sha256": "74f1421f0342dd818d7b9414030bcd5dc93243f3168cfa0d6ab1ae2bcac165bf",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [
+            {
+              "id": "f009-right-c01",
+              "role": "prescription",
+              "text": "一方陳皮厚朴湯似氣阻者",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f009-right-c02",
+              "role": "prescription",
+              "text": "陳　朴　查　委　青　右水煎　痰多加歸貝",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f009-right-c03",
+              "role": "prescription",
+              "text": "血滯加索桃莎頭汗加實虎口渇加天花薄",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f009-right-c04",
+              "role": "prescription",
+              "text": "一方防風勝金湯似食積血滯者",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "勝疑膝字形"
+            },
+            {
+              "id": "f009-right-c05",
+              "role": "prescription",
+              "text": "防　委　索　吉　売各七分　富二匁　楂　銀",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f009-right-c06",
+              "role": "prescription",
+              "text": "查　翹　栩各一匁　水煎",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f009-right-c07",
+              "role": "prescription",
+              "text": "一方必勝湯似血實者",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f009-right-c08",
+              "role": "prescription",
+              "text": "紅　莎　桃　虎　貝　查　栩　青　灵　右",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f009-right-c09",
+              "role": "prescription",
+              "text": "水煎",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f009-right-c10",
+              "role": "prescription",
+              "text": "一方独活紅花湯似血鬱者",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f009-right-c11",
+              "role": "prescription",
+              "text": "独　紅　委　蒲黄　索　白蒺炒為末　委各一",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "末藥字疑通；欄末一續匁"
+            },
+            {
+              "id": "f009-right-c12",
+              "role": "prescription",
+              "text": "匁　莎三分　売七分　水煎",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            }
+          ],
+          "notes": [
+            "方書連續"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f009-left-c01",
+              "role": "prescription",
+              "text": "一方清凉至宝飲清熱劑小兒最宜",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f009-left-c02",
+              "role": "prescription",
+              "text": "薄　骨　牡丹　危黒　蔘　花粉　辛各等分",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "危疑梔行草"
+            },
+            {
+              "id": "f009-left-c03",
+              "role": "prescription",
+              "text": "右水煎",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f009-left-c04",
+              "role": "prescription",
+              "text": "一方救苦丹病勢鬱悶者",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f009-left-c05",
+              "role": "prescription",
+              "text": "實　富各一匁　鬱二匁　委　翹各八分　右末茶",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f009-left-c06",
+              "role": "section_title",
+              "text": "丸散之部",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "獨立短欄"
+            },
+            {
+              "id": "f009-left-c07",
+              "role": "prescription",
+              "text": "一方牛黄丸痰喘者玉衡作痰涎喘急",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f009-left-c08",
+              "role": "prescription",
+              "text": "胆南星　天竹黄各三匁　雄黄五匁　辰五分　丁香",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f009-left-c09",
+              "role": "prescription",
+              "text": "牛黄各四匁　甘草　水為丸姜湯下",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f009-left-c10",
+              "role": "prescription",
+              "text": "一方沉香阿魏丸氣壅血阻昏迷不醒偏身沉重不",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f009-left-c11",
+              "role": "prescription",
+              "text": "能轉側者",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f009-left-c12",
+              "role": "prescription",
+              "text": "灵　陳各十匁　青　天仙子　姜黄　莪　稜各",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            }
+          ],
+          "notes": [
+            "方書並丸散之部"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 10,
+      "label": "10",
+      "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p10",
+      "locator": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p10",
+      "sha256": "acba754a9f4e10cb79fbd5458ed7defc443fde39ce25ab4555bb5c05fb468651",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [
+            {
+              "id": "f010-right-c01",
+              "role": "prescription",
+              "text": "七匁　實六匁　白豆仁　委各五匁　蜜　沉各二匁",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "接第9幅左末；蜜／密"
+            },
+            {
+              "id": "f010-right-c02",
+              "role": "prescription",
+              "text": "阿魏一匁　右十三味為末",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f010-right-c03",
+              "role": "prescription",
+              "text": "一方宝花散通治方口傳",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f010-right-c04",
+              "role": "prescription",
+              "text": "鬱一匁　辛三十匁　降眞香三匁　荊四匁　右四味末",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "辛下三十或三匁，須回核；不規範化"
+            },
+            {
+              "id": "f010-right-c05",
+              "role": "prescription",
+              "text": "清茶服",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f010-right-c06",
+              "role": "prescription",
+              "text": "證候既具七八状者",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "縮排獨欄"
+            },
+            {
+              "id": "f010-right-c07",
+              "role": "prescription",
+              "text": "芍藥湯　奪命金丹　牛黄丸　紫金錠　豐心",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f010-right-c08",
+              "role": "prescription",
+              "text": "丹　金銀煎汁　右常用多方",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f010-right-c09",
+              "role": "prescription",
+              "text": "大熱方此方未試治氣結胷膈中熱在胃脘飲食呕",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f010-right-c10",
+              "role": "prescription",
+              "text": "逆渇者方",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f010-right-c11",
+              "role": "prescription",
+              "text": "前　實　桂　虎　知母　寒水石　耳各十匁",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f010-right-c12",
+              "role": "prescription",
+              "text": "硝石　膏　栝蔞根各十匁　右水煎",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            }
+          ],
+          "notes": [
+            "續丸散等方"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f010-left-c01",
+              "role": "section_title",
+              "text": "用藥主能大人小兒通用",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "兩段間小白隙；主能保留"
+            },
+            {
+              "id": "f010-left-c02",
+              "role": "prescription",
+              "text": "発表　荊　防　前　辛　獨",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f010-left-c03",
+              "role": "prescription",
+              "text": "和食　陳　青　實　売　縮",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f010-left-c04",
+              "role": "prescription",
+              "text": "清熱　翹　柴　葛　薄　蔘　化　童便",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "化或花"
+            },
+            {
+              "id": "f010-left-c05",
+              "role": "prescription",
+              "text": "解毒　辛　降　鬱",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f010-left-c06",
+              "role": "prescription",
+              "text": "醒穢　藿　檀　丁　降　沉",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f010-left-c07",
+              "role": "prescription",
+              "text": "化痰　貝　歸　来　梔苓　杏　愛　関　雄黄",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "末三物名縮記，先從手稿所見"
+            },
+            {
+              "id": "f010-left-c08",
+              "role": "prescription",
+              "text": "牛黄　胆星　天竹黄",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f010-left-c09",
+              "role": "prescription",
+              "text": "行血破瘀　桃　芍　紅　銀　茜草　辛　姜黄",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f010-left-c10",
+              "role": "prescription",
+              "text": "飯　灵　亀甲　索　蘓木　没薬",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f010-left-c11",
+              "role": "prescription",
+              "text": "消食化積　查　富　芽　曲　稜　莪　朴　虎",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f010-left-c12",
+              "role": "prescription",
+              "text": "魏",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            }
+          ],
+          "notes": [
+            "用藥主能表"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 11,
+      "label": "11",
+      "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p11",
+      "locator": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p11",
+      "sha256": "5fac672c06c902cca9d98ee2e3090e2cb3ce78ffb71a03e0f18be37124d7fbbf",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [
+            {
+              "id": "f011-right-c01",
+              "role": "prescription",
+              "text": "令吐食　明礬　食塩",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f011-right-c02",
+              "role": "prescription",
+              "text": "通水　通　沢　車前",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f011-right-c03",
+              "role": "prescription",
+              "text": "順氣　莎　蜜　辛",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f011-right-c04",
+              "role": "section_title",
+              "text": "雑",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f011-right-c05",
+              "role": "prescription",
+              "text": "化　桔　皂刺　朱房　晩　蚕砂　大麻人　鬱　檀　丁　藿",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "化、晩等縮記不展開；朱房候選朱茅"
+            },
+            {
+              "id": "f011-right-c06",
+              "role": "prescription",
+              "text": "温劑　白荳蔻　砂人　蜜　丁香",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f011-right-c07",
+              "role": "section_title",
+              "text": "他家秘方",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f011-right-c08",
+              "role": "prescription",
+              "text": "明礬寒晒一匁　丁香五分　右為末",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "晒候選研"
+            },
+            {
+              "id": "f011-right-c09",
+              "role": "prescription",
+              "text": "一方同前　辰一匁　葛粉三分　参五分　右末白湯用",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f011-right-c10",
+              "role": "prescription",
+              "text": "同前",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "縮排小欄，接左手另方"
+            },
+            {
+              "id": "f011-right-c11",
+              "role": "prescription",
+              "text": "一方紫吾一匁　百沸煎　辰各三分　右末白湯用",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "紫吾和百沸煎疑字樣，待二讀"
+            },
+            {
+              "id": "f011-right-c12",
+              "role": "prescription",
+              "text": "不可誤用薬品　熟芐　芍　参　附　耆　伽",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "續第11幅左，字不依後世詞表統一"
+            }
+          ],
+          "notes": [
+            "藥用分類、他家秘方及不可誤用"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f011-left-c01",
+              "role": "prescription",
+              "text": "預　甘　狄　守　壮　蒼　朮　味　竹　桂",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "預、狄、守、壮為手寫縮記；保留候選"
+            },
+            {
+              "id": "f011-left-c02",
+              "role": "prescription",
+              "text": "呉茱　麻黄　熱湯　熱粥　酒　姜　灸",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": null
+            },
+            {
+              "id": "f011-left-c03",
+              "role": "prescription",
+              "text": "不得已用薬品　連　芩　生芐　瀝　天花",
+              "language": "lzh",
+              "text_layer": "main_text",
+              "editorial_note": "此面左側大面積淡字為透背，未作正面另文"
+            }
+          ],
+          "notes": [
+            "禁用／不得已用藥末三欄"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 12,
+      "label": "12",
+      "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p12",
+      "locator": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p12",
+      "sha256": "4831a36aadeb33a5b1687016c53fdcadea2c2cb8bc82cd1da58f0d29c9369019",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [],
+          "notes": [
+            "有第11幅左的反面透背，無正面正文"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f012-left-c01",
+              "role": "section_title",
+              "text": "熱癇ノ病心得ノ事",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "位於右側題行；癇字門內待核癎／癇"
+            },
+            {
+              "id": "f012-left-c02",
+              "role": "body",
+              "text": "一此病夏ニ限ラス四時共ニアリテ又小兒斗リ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "斗是「ばかり」借字；行首一形為條目標記；朱點約在第8、15字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f012-left-c03",
+              "role": "body",
+              "text": "病ニアラス大人老人ニモマヽコレアル事",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "「マ」下見短重文形；事採本文反覆字形的近讀，字形待覆核；朱點約在第5、18字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f012-left-c04",
+              "role": "body",
+              "text": "一此病ノ様子一ヤウニ定ナシト云トモ大方ハ俄",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "定下字似土形，暫讀ナ；云下是短折與卷筆相連的單組符，暫轉錄トモ，另有ド候選；朱點約在第17字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f012-left-c05",
+              "role": "body",
+              "text": "ニ惡寒發熱ヲイタシ脈浮数口渇シ湯水ヲ好",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "数保留近形，字形待核數／数；朱點約在第9、12字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f012-left-c06",
+              "role": "body",
+              "text": "ミ頭痛甚ク腸鳴テ大便瀉シ其大便事ノ外熱",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第1、5、12字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f012-left-c07",
+              "role": "body",
+              "text": "ク覚エ初二三度下ル間ハ大便常ノ通臭シ三",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第3、11、18字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f012-left-c08",
+              "role": "body",
+              "text": "四度多下リテ後ハ大便不臭五色ノ腸垢交リ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "最下一字近リ，下筆與紙折相接；朱點約在第8、12字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f012-left-c09",
+              "role": "body",
+              "text": "下リ又ハ吐逆スル事有熱強ク悶苦ムマモヒ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第2、10、18字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f012-left-c10",
+              "role": "body",
+              "text": "クモノ眠リ一二時程ニシテ目ヲミツメ手足",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "首四字與前一欄末合讀「ヒクモノ眠リ」；クモ兩字略淡；朱點約在第5、12、17字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f012-left-c11",
+              "role": "body",
+              "text": "ヒクメキ又ハ掣引シ背ヘ反リナトシ暫クシ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "首四字近「ヒクメキ」，暫存；反下「リ」可見，清濁不補；朱點約在第4、16字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f012-left-c12",
+              "role": "body",
+              "text": "コルニ又掣引シ二三度四五度モ如此シ其間ニ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "末ニ貼左下；五上黑點可能非字；朱點約在第3、17字後（本欄Unicode碼位，一起算）。"
+            }
+          ],
+          "notes": [
+            "和文「熱癇ノ病心得ノ事」開始"
+          ]
+        },
+        {
+          "side": "paratext",
+          "units": [
+            {
+              "id": "f012-slip-c01",
+              "role": "detached_label",
+              "text": "今時醫談熱癇畧",
+              "language": "und",
+              "editorial_note": "掃幅左側的獨立紙籤，不接正文，不補鈔"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "image": 13,
+      "label": "13",
+      "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p13",
+      "locator": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p13",
+      "sha256": "53ad50173bfc3bf8c9dee1a29c9dfdcc0f8de4984a8d304500f7513e1f3c7d67",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "duplicate_of": 12,
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [],
+          "notes": [
+            "第12幅右同面重拍"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [],
+          "notes": [
+            "第12幅左同面重拍"
+          ]
+        },
+        {
+          "side": "paratext",
+          "units": [
+            {
+              "id": "f013-slip-c01",
+              "role": "detached_label",
+              "text": "東京四谷尾張丁",
+              "language": "und",
+              "editorial_note": "掃幅左側籤之右細欄；丁／町候選"
+            },
+            {
+              "id": "f013-slip-c02",
+              "role": "detached_label",
+              "text": "高島祐啓",
+              "language": "und",
+              "editorial_note": "掃幅左側籤中央大字；並非京都藏本作者證據；左微細墨跡仍未判為單位"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "image": 14,
+      "label": "14",
+      "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p14",
+      "locator": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p14",
+      "sha256": "1fe2fe3332e6c00886fc6de88b43c0ffed236ca6f28d07bfa793e6aaf677149c",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [
+            {
+              "id": "f014-right-c01",
+              "role": "body",
+              "text": "ハヨク眠ルナリ如此事一日半日ニシテ死シ長",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "日下兩筆可讀ニシ，後筆疑テ／無；朱點約在第7、19字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-right-c02",
+              "role": "body",
+              "text": "キハ二三日程ニテ死ス或ハ只一度引付テ直",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第10字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-right-c03",
+              "role": "body",
+              "text": "ニ死スルモアリ一様ニハアラス又熱ノナキ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第7、14字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-right-c04",
+              "role": "body",
+              "text": "モアリ熱ノナキヲ早テト見立事巧者ノ働キ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "「働キ」前首字暫作巧，早後有近テ形，讀「早手」之可能；朱點約在第3、14字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-right-c05",
+              "role": "body",
+              "text": "有コトヽ大人ハ筋骨剛キユヘ多クハ引付ナ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "ト下小斜筆或句記；筋骨後右為刂；朱點約在第4、13字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-right-c06",
+              "role": "body",
+              "text": "シ只氣分沈ミ陷ルヤウニ重クネタキ様ニテ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "ネ呈子形；様字左見木，右部短撇折，字形候選様／模；朱點約在第1、13字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-right-c07",
+              "role": "body",
+              "text": "ウカ〳〵トシウツ〳〵ノ様ニ覚ユルモアリ小兒",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "第二疊字符淡，存候選「ウツ〳〵／ウト〳〵」，原重文號另留；朱點約在第6、19字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-right-c08",
+              "role": "body",
+              "text": "ハ疱瘡ノ初發驚風ホトニ紛レ大人ハ暑氣アタ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "風下字近ホ或木，次字同欄有省筆；朱點約在第13字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-right-c09",
+              "role": "body",
+              "text": "リ霍亂暴瀉ホトニ紛レテ見分カタキ事アリ第",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "保留霍亂古醫學詞；ホト脫落與否待核；朱點約在第1、11、19字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-right-c10",
+              "role": "body",
+              "text": "一ノ見立病苦甚キ閒ニモ喜眠ルト大便ノ不",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "閒原門中部筆簡；喜或善，末段ルト略淡；朱點約在第15字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-right-c11",
+              "role": "body",
+              "text": "臭ヲ以前ノ見立ス其外々見立ハ素人ニテ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "前字疑「煎」；其外下一符像疊字符，暫記々；朱點約在第3、8字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-right-c12",
+              "role": "body",
+              "text": "ハナリカタシ或ハ不眠シ久ヒ紛スルモアリ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "「久ヒ紛」疑「久ヒ紛／久ヒ勞」；小字淡；朱點約在第6、19字後（本欄Unicode碼位，一起算）。"
+            }
+          ],
+          "notes": [
+            "和文心得"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f014-left-c01",
+              "role": "body",
+              "text": "有増如此ニシ見立ニ初者アル事ト知ベシ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "首二字在同欄，暫存「有増」；屬前面讀續；朱點約在第6、18字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-left-c02",
+              "role": "body",
+              "text": "一療治方藥方等ハ醫者ニアラサレハ合點ナラ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第8、16字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-left-c03",
+              "role": "body",
+              "text": "サル事故コヽニ不記然レド禁物藥ニテハ附",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第4、9、18字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-left-c04",
+              "role": "body",
+              "text": "子肉桂乾姜黄芪ホトナリ又酒ト魚トヲ忌又煎",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "乾姜之姜未作薑；芪下部舒展，芪／耆／蓍待核；朱點約在第11、18字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-left-c05",
+              "role": "body",
+              "text": "茶粥米湯白湯ホモ熱キハ禁物トヌルクシ用",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "米湯後有白湯；ホ／ト合寫看似ホ，保留疑讀。禁物下短斜字可能ト／ニ。；朱點約在第14字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-left-c06",
+              "role": "body",
+              "text": "ユベシ人參モ禁物ノ内ナレド是ハ様子ニ依",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第3、13字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-left-c07",
+              "role": "body",
+              "text": "テ少ヽ用ユル事モアリ然シ人參ヲ用事ハ病",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "少下短筆像々／シ；朱點約在第1、10、18字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-left-c08",
+              "role": "body",
+              "text": "人百人ニ一二人ナラテハ無之事夫ド無用ニ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "夫下短撮疑「ド／レ」；讀斷待核；朱點約在第14字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-left-c09",
+              "role": "body",
+              "text": "ハ益多シ用方ニハ損多ト知ベシ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第4、14字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-left-c10",
+              "role": "body",
+              "text": "一此病ノ根元ハ人ノ生稟ノ丈夫不丈夫食餌ノ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第7字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-left-c11",
+              "role": "body",
+              "text": "好惡ニモヨラス又風邪寒氣溫氣食餌ホトニモ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "「ホト」略淡；溫字內部未定；朱點約在第7字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f014-left-c12",
+              "role": "body",
+              "text": "非ス病氣ト云テ毒ノ氣ト其毒氣鼻口ヨリ入",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第2、11字後（本欄Unicode碼位，一起算）。"
+            }
+          ],
+          "notes": [
+            "和文心得"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 15,
+      "label": "15",
+      "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p15",
+      "locator": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p15",
+      "sha256": "31589370d286ad4e667b368e47e09cf54be7a2ad81614ac6c2afb38b08e40b4f",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [
+            {
+              "id": "f015-right-c01",
+              "role": "body",
+              "text": "テ先血分ニ入リ急ニ藏府ヲ攻大熱ヲ發シ腹",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "藏府保留舊用形，續上一面末入；朱點約在第1、7、13、18字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-right-c02",
+              "role": "body",
+              "text": "中ノ脂膜ト盲脂ヲトロカシ能心ノ藏攻ル故",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "トロカシ可讀；膜右部草寫複筆；朱點約在第12字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-right-c03",
+              "role": "body",
+              "text": "ニ氣ウカツキテ引付ヲナスニ手足甚冷ト云",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "ナス下字草形似一鉤；暫讀ニ，與下一欄起首連讀；朱點約在第13字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-right-c04",
+              "role": "body",
+              "text": "ド寒證ト思ベカラス惣身ニ熱ナキ症ニテモ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "惣右部連筆，原讀待覆核；寒證之證形有言旁；朱點約在第1、9、19字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-right-c05",
+              "role": "body",
+              "text": "内ハ熱毒ノ病ニ此毒氣内ニ有ル閒ハ矢ノ中リ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "「矢ノ中リ」之ノ有兩短筆，ノ／ニ待核；朱點約在第7、16字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-right-c06",
+              "role": "body",
+              "text": "テ不拔様ナルモノナリ治ル事ナク瀉カ吐カ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第10、15字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-right-c07",
+              "role": "body",
+              "text": "汗カニテ外エ發シキラサレハ終ニハ死ス夫",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第13、18字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-right-c08",
+              "role": "body",
+              "text": "故瀉スル事ヲ厭ベカラスマヽ不瀉症アリテ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "マ下見細斜筆，保留重文號；朱點約在第11、19字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-right-c09",
+              "role": "body",
+              "text": "却テ事ノ外六ケ敷早ク死スルモノナリ毒氣",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "六ケ敷為原和文慣用寫法，ケ近短斜二筆；朱點約在第17字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-right-c10",
+              "role": "body",
+              "text": "不去故ナリ吐モ瀉モ汗モ毒氣ノ洩ルヽ道ニ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "道下短鉤近ニ，暫錄；洩下重文號淡；朱點約在第5、19字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-right-c11",
+              "role": "body",
+              "text": "服藥ニテ此毒ヲ解散スル事第一ノ心得ナリ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第12、19字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-right-c12",
+              "role": "body",
+              "text": "若下リ止ル藥カ又附子肉桂乾姜ナト用灸ナ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "灸上部草筆作人，原字候選灸／灮；續下一面首；朱點約在第7、17字後（本欄Unicode碼位，一起算）。"
+            }
+          ],
+          "notes": [
+            "和文心得"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f015-left-c01",
+              "role": "body",
+              "text": "トスヱテ毒氣留ル時ハ治スベキ理ナシ此事",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "ヱ字圖形近ユ，暫讀歷史假名「すゑて」的ヱ；「時」右部作辰樣；朱點約在第10、17字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-left-c02",
+              "role": "body",
+              "text": "病家ノ肝腎ノ心得ナリ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第10字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-left-c03",
+              "role": "body",
+              "text": "一病人アリテ何トヤラニ□ナラシキ心元ナキ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "ニ下黑字可見日形及下長豎，札記候選異／景／早；下方一字近ナ／天"
+            },
+            {
+              "id": "f015-left-c04",
+              "role": "body",
+              "text": "様子アラハ先金子三五兩水ニテヨク洗ヒ水",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第5、18字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-left-c05",
+              "role": "body",
+              "text": "三四杯トヒンニ入テ煎シ迹ヨリ水ヲサシ煎",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "迚樣草字疑迹／迄，暫錄迹；トヒン無另見濁點；朱點約在第11、18字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-left-c06",
+              "role": "body",
+              "text": "シメテ置ヘシ服藥ノ煎水丸藥ノ送汁皆此水",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "起首シ兩點甚淡；朱點約在第6、11、16字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-left-c07",
+              "role": "body",
+              "text": "ニヨシ若醫者ヲ招ク事遠クハ先此金汁斗リ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "遠旁部草寫待核逡／遠；斗作限量詞；朱點約在第3、13字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-left-c08",
+              "role": "body",
+              "text": "ヲヌルクシ用ヒテ醫ヲマツベシ其閒ニ引付",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "ヌ形近ノ，暫錄；閒門中部簡；朱點約在第5、14字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-left-c09",
+              "role": "body",
+              "text": "ル事アラハ手足ヲ摩テ脊骨ヲ按テ右ノ金汁",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第5、10、15字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-left-c10",
+              "role": "body",
+              "text": "ヲシメタキヲ少ク用テ良鼻杯不通トテ鼻ヨ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "首四符淡，存候選ヲシメタキ／冷メタキ；杯左形似木，可能抔；朱點約在第11、17字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-left-c11",
+              "role": "body",
+              "text": "リ吹入又ハ灸ナトスユル事大ニ惡キコトニ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "スユル之ユ近ヱ，不作現代假名；朱點約在第3、12、19字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f015-left-c12",
+              "role": "body",
+              "text": "大音ニテ喚醒スコト無益ニ脊ト胸腹ト□撫",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "音形似吉；左欄底有黑墨重覆，遮一字區，字數未全確，撫字保存；朱點約在第12字後（本欄Unicode碼位，一起算）。"
+            }
+          ],
+          "notes": [
+            "和文心得"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 16,
+      "label": "16",
+      "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p16",
+      "locator": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p16",
+      "sha256": "2b141167037ffd1858640b273941c6403135d56986fd509e72fd9de7bba0bc94",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [
+            {
+              "id": "f016-right-c01",
+              "role": "body",
+              "text": "テ穩ルベシ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "穩右件近散／穀，暫讀穩；與前頁「撫」連續；朱點約在第5字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f016-right-c02",
+              "role": "body",
+              "text": "一病出シ子半日モ過テ大便繁ク下レハ腹中ノ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第10、17字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f016-right-c03",
+              "role": "body",
+              "text": "脂拔テ元氣持カタシ粥カ米湯カ折ヲシ灌ヘ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "折以下近「ヲシ」，或「ヲリ」；灌後片假名淡；朱點約在第3、9字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f016-right-c04",
+              "role": "body",
+              "text": "シ味噌汁タマリ塩ノ類ヲヨキホドニクワユ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "塩用底本近形，未改成鹽；朱點約在第1、11字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f016-right-c05",
+              "role": "body",
+              "text": "用ユヘシ淡キ粥米湯斗リニテハ藥ヲウケヌ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第4、14字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f016-right-c06",
+              "role": "body",
+              "text": "様ナルモノニ塩味噌絶レハ湯水通リ難シ此",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第6、12、18字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f016-right-c07",
+              "role": "body",
+              "text": "事病家最一ノ心得ナリ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第10字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f016-right-c08",
+              "role": "body",
+              "text": "一此病人ニ藥ヨク適ヘハ毒氣ハヤクヌケテ治",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第11、19字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f016-right-c09",
+              "role": "body",
+              "text": "驗コトノホカハヤキモノナリ一兩日ニテ平",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "朱點約在第13字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f016-right-c10",
+              "role": "body",
+              "text": "生底ニナルモノナリ初メヨリ適中スル時ハ",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "生底依所見字形，底下廣內略省；朱點約在第9、19字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f016-right-c11",
+              "role": "body",
+              "text": "ヒキ付ナリ治スル事アリハヤク治シタリト",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "首ヒ弱，一見近七字形；朱點約在第11字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f016-right-c12",
+              "role": "body",
+              "text": "テ熱病ニアラス油斷スヘカラス又ハ痢病ト",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "痢右側有刂，左半欄邊，仍留痢／疳候選；朱點約在第7、14字後（本欄Unicode碼位，一起算）。"
+            }
+          ],
+          "notes": [
+            "和文心得"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f016-left-c01",
+              "role": "body",
+              "text": "ナリ脾胃虛トナリ小疳トナルモアリ油斷ス",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "小下疒中近甘；候選疳／痺；朱點約在第2、8、16字後（本欄Unicode碼位，一起算）。"
+            },
+            {
+              "id": "f016-left-c02",
+              "role": "body",
+              "text": "ベカラス",
+              "language": "ja",
+              "text_layer": "main_text",
+              "editorial_note": "末行僅四假名加朱點；左餘幅空白，未見跋尾署名；朱點約在第4字後（本欄Unicode碼位，一起算）。"
+            }
+          ],
+          "notes": [
+            "末兩欄，止「油斷スベカラズ」"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 17,
+      "label": "17",
+      "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p17",
+      "locator": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p17",
+      "sha256": "ec58447e91e6fce62e74e886d47a7a22bf52375771c9751a500ddc32c1058131",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [],
+          "notes": [
+            "末反面透背"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f017-left-c01",
+              "role": "end_annotation",
+              "text": "□□□",
+              "language": "und",
+              "text_layer": "paratext",
+              "editorial_note": "封底內側左下草書黑墨，字數按三字形候估。可疑多紀□／□知□；未定是否為藏記"
+            }
+          ],
+          "notes": [
+            "封底內側左下草書署記"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 18,
+      "label": "18",
+      "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p18",
+      "locator": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002628/canvas/p18",
+      "sha256": "8bddd5843a25ee15af9cf964e41721f7a3c85ebcbae13482fe1acb40b80be597",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [],
+          "notes": [
+            "原冊棕色封底"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [],
+          "notes": [
+            "原冊棕色封底"
+          ]
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "frames_inventoried": 18,
+    "unique_main_text_pages": 20,
+    "severely_damaged_main_text_pages": 0,
+    "han_main_columns": 149,
+    "japanese_main_columns": 74,
+    "han_codepoints_including_layout_spaces": 2203,
+    "japanese_codepoints": 1357,
+    "paratext_units": 15,
+    "coded_unresolved_spans": 4,
+    "units_with_notes": 146,
+    "japanese_red_mark_rows": 72
+  },
+  "source_manifest_sha256": "b24c20e9ea3211f80b137f1abcfb29bde6462f9f713f806b36581079f8d8bcf3",
+  "reading_policy": {
+    "order": "掃描幅次。正文同幅右面至左面，同面由右欄至左欄，欄內由上而下。",
+    "points": "朱點可見。和文欄有約略字符附記。漢文方書的朱點保留於影像層，無逐點定位。",
+    "spaced_type": "表內可見分隔用全形空格，非底本 Unicode 固有文字。",
+    "damage": "□ 標示未能確讀區；長度照可見狀況，不以□數作底本缺字數。一般候選置注。",
+    "variant_glyphs": "以可表示字符近記手寫字形，未知構形不統一；細注可能合夾同欄，待二讀。",
+    "supplied_punctuation": false,
+    "images_bundled": false
+  },
+  "unresolved_spans": [
+    {
+      "unit_id": "f006-right-c02",
+      "span": [
+        2,
+        3
+      ],
+      "reading": "□",
+      "type": "unresolved_reading",
+      "extent_in_source": "uncertain",
+      "note": "一後一字疑灸"
+    },
+    {
+      "unit_id": "f017-left-c01",
+      "span": [
+        0,
+        3
+      ],
+      "reading": "□□□",
+      "type": "unresolved_reading",
+      "extent_in_source": "uncertain",
+      "note": "封底內側左下草書黑墨，字數按三字形候估。可疑多紀□／□知□；未定是否為藏記"
+    },
+    {
+      "unit_id": "f015-left-c03",
+      "span": [
+        11,
+        12
+      ],
+      "reading": "□",
+      "type": "unresolved_reading",
+      "extent_in_source": "uncertain",
+      "note": "ニ下黑字可見日形及下長豎，札記候選異／景／早；下方一字近ナ／天"
+    },
+    {
+      "unit_id": "f015-left-c12",
+      "span": [
+        17,
+        18
+      ],
+      "reading": "□",
+      "type": "unresolved_reading",
+      "extent_in_source": "uncertain",
+      "note": "音形似吉；左欄底有黑墨重覆，遮一字區，字數未全確，撫字保存；朱點約在第12字後（本欄Unicode碼位，一起算）。"
+    }
+  ],
+  "japanese_red_marks": [
+    {
+      "unit_id": "f012-left-c02",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        8,
+        15
+      ]
+    },
+    {
+      "unit_id": "f012-left-c03",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        5,
+        18
+      ]
+    },
+    {
+      "unit_id": "f012-left-c04",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        17
+      ]
+    },
+    {
+      "unit_id": "f012-left-c05",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        9,
+        12
+      ]
+    },
+    {
+      "unit_id": "f012-left-c06",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        1,
+        5,
+        12
+      ]
+    },
+    {
+      "unit_id": "f012-left-c07",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        3,
+        11,
+        18
+      ]
+    },
+    {
+      "unit_id": "f012-left-c08",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        8,
+        12
+      ]
+    },
+    {
+      "unit_id": "f012-left-c09",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        2,
+        10,
+        18
+      ]
+    },
+    {
+      "unit_id": "f012-left-c10",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        5,
+        12,
+        17
+      ]
+    },
+    {
+      "unit_id": "f012-left-c11",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        4,
+        16
+      ]
+    },
+    {
+      "unit_id": "f012-left-c12",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        3,
+        17
+      ]
+    },
+    {
+      "unit_id": "f014-right-c01",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        7,
+        19
+      ]
+    },
+    {
+      "unit_id": "f014-right-c02",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        10
+      ]
+    },
+    {
+      "unit_id": "f014-right-c03",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        7,
+        14
+      ]
+    },
+    {
+      "unit_id": "f014-right-c04",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        3,
+        14
+      ]
+    },
+    {
+      "unit_id": "f014-right-c05",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        4,
+        13
+      ]
+    },
+    {
+      "unit_id": "f014-right-c06",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        1,
+        13
+      ]
+    },
+    {
+      "unit_id": "f014-right-c07",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        6,
+        19
+      ]
+    },
+    {
+      "unit_id": "f014-right-c08",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        13
+      ]
+    },
+    {
+      "unit_id": "f014-right-c09",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        1,
+        11,
+        19
+      ]
+    },
+    {
+      "unit_id": "f014-right-c10",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        15
+      ]
+    },
+    {
+      "unit_id": "f014-right-c11",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        3,
+        8
+      ]
+    },
+    {
+      "unit_id": "f014-right-c12",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        6,
+        19
+      ]
+    },
+    {
+      "unit_id": "f014-left-c01",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        6,
+        18
+      ]
+    },
+    {
+      "unit_id": "f014-left-c02",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        8,
+        16
+      ]
+    },
+    {
+      "unit_id": "f014-left-c03",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        4,
+        9,
+        18
+      ]
+    },
+    {
+      "unit_id": "f014-left-c04",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        11,
+        18
+      ]
+    },
+    {
+      "unit_id": "f014-left-c05",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        14
+      ]
+    },
+    {
+      "unit_id": "f014-left-c06",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        3,
+        13
+      ]
+    },
+    {
+      "unit_id": "f014-left-c07",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        1,
+        10,
+        18
+      ]
+    },
+    {
+      "unit_id": "f014-left-c08",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        14
+      ]
+    },
+    {
+      "unit_id": "f014-left-c09",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        4,
+        14
+      ]
+    },
+    {
+      "unit_id": "f014-left-c10",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        7
+      ]
+    },
+    {
+      "unit_id": "f014-left-c11",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        7
+      ]
+    },
+    {
+      "unit_id": "f014-left-c12",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        2,
+        11
+      ]
+    },
+    {
+      "unit_id": "f015-right-c01",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        1,
+        7,
+        13,
+        18
+      ]
+    },
+    {
+      "unit_id": "f015-right-c02",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        12
+      ]
+    },
+    {
+      "unit_id": "f015-right-c03",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        13
+      ]
+    },
+    {
+      "unit_id": "f015-right-c04",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        1,
+        9,
+        19
+      ]
+    },
+    {
+      "unit_id": "f015-right-c05",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        7,
+        16
+      ]
+    },
+    {
+      "unit_id": "f015-right-c06",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        10,
+        15
+      ]
+    },
+    {
+      "unit_id": "f015-right-c07",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        13,
+        18
+      ]
+    },
+    {
+      "unit_id": "f015-right-c08",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        11,
+        19
+      ]
+    },
+    {
+      "unit_id": "f015-right-c09",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        17
+      ]
+    },
+    {
+      "unit_id": "f015-right-c10",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        5,
+        19
+      ]
+    },
+    {
+      "unit_id": "f015-right-c11",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        12,
+        19
+      ]
+    },
+    {
+      "unit_id": "f015-right-c12",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        7,
+        17
+      ]
+    },
+    {
+      "unit_id": "f015-left-c01",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        10,
+        17
+      ]
+    },
+    {
+      "unit_id": "f015-left-c02",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        10
+      ]
+    },
+    {
+      "unit_id": "f015-left-c04",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        5,
+        18
+      ]
+    },
+    {
+      "unit_id": "f015-left-c05",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        11,
+        18
+      ]
+    },
+    {
+      "unit_id": "f015-left-c06",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        6,
+        11,
+        16
+      ]
+    },
+    {
+      "unit_id": "f015-left-c07",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        3,
+        13
+      ]
+    },
+    {
+      "unit_id": "f015-left-c08",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        5,
+        14
+      ]
+    },
+    {
+      "unit_id": "f015-left-c09",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        5,
+        10,
+        15
+      ]
+    },
+    {
+      "unit_id": "f015-left-c10",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        11,
+        17
+      ]
+    },
+    {
+      "unit_id": "f015-left-c11",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        3,
+        12,
+        19
+      ]
+    },
+    {
+      "unit_id": "f015-left-c12",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        12
+      ]
+    },
+    {
+      "unit_id": "f016-right-c01",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        5
+      ]
+    },
+    {
+      "unit_id": "f016-right-c02",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        10,
+        17
+      ]
+    },
+    {
+      "unit_id": "f016-right-c03",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        3,
+        9
+      ]
+    },
+    {
+      "unit_id": "f016-right-c04",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        1,
+        11
+      ]
+    },
+    {
+      "unit_id": "f016-right-c05",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        4,
+        14
+      ]
+    },
+    {
+      "unit_id": "f016-right-c06",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        6,
+        12,
+        18
+      ]
+    },
+    {
+      "unit_id": "f016-right-c07",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        10
+      ]
+    },
+    {
+      "unit_id": "f016-right-c08",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        11,
+        19
+      ]
+    },
+    {
+      "unit_id": "f016-right-c09",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        13
+      ]
+    },
+    {
+      "unit_id": "f016-right-c10",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        9,
+        19
+      ]
+    },
+    {
+      "unit_id": "f016-right-c11",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        11
+      ]
+    },
+    {
+      "unit_id": "f016-right-c12",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        7,
+        14
+      ]
+    },
+    {
+      "unit_id": "f016-left-c01",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        2,
+        8,
+        16
+      ]
+    },
+    {
+      "unit_id": "f016-left-c02",
+      "type": "manuscript_red_point",
+      "after_codepoint_approximate_one_based": [
+        4
+      ]
+    }
+  ],
+  "source_languages": [
+    "lzh",
+    "ja"
+  ],
+  "edition": {
+    "language_and_bounds": [
+      {
+        "language": "lzh",
+        "range": "005-left–011-left",
+        "evidence": "卷首標題與「以此病名熱癇其意詳于本書」「不分四時不論男婦老少」，順接漢文病候考論、引據、方名、藥表。形體和重文號保留手稿寫法，後段方表帶日本習用量詞匁。001–004為帙、封面、透背或副文本，正文不從這幾幅開始。"
+      },
+      {
+        "language": "ja",
+        "range": "012-left, 014-right–016-left",
+        "evidence": "012左題「熱癇ノ病心得ノ事」及「一此病夏ニ限ラス四時共ニアリテ又小兒斗リ」一類明確片假名語法。接續此篇的最後兩欄在016左，止於油斷スベカラス。017右是末和文透背，017左卷末疑藏記獨立處理。"
+      }
+    ],
+    "duplicate_canvas": {
+      "kept_for_text": 12,
+      "repeat_view": 13,
+      "evidence": "冊面草書、朱點、蟲孔與頁面紙斑位置同，冊面內容去重。圖左窄紙兩表分別有不同文字。尚無證據斷定是同一張紙的兩面或兩張紙，兩幅保留各自唯一籤文。",
+      "region_similarity": {
+        "measure": "grayscale Pearson correlation, 4 px samples, locate highest translational match in each region within ±12 px, no interpolation",
+        "left_text": {
+          "first_crop_xyxy": [
+            291,
+            325,
+            950,
+            1150
+          ],
+          "best_delta_xy": [
+            2,
+            1
+          ],
+          "correlation": 0.973778201408395
+        },
+        "right_unwritten": {
+          "first_crop_xyxy": [
+            1030,
+            144,
+            1720,
+            1165
+          ],
+          "best_delta_xy": [
+            -4,
+            1
+          ],
+          "correlation": 0.8966752045510934
+        },
+        "left_slip": {
+          "first_crop_xyxy": [
+            76,
+            500,
+            158,
+            778
+          ],
+          "best_delta_xy": [
+            7,
+            11
+          ],
+          "correlation": 0.25159269171664406
+        }
+      }
+    }
+  }
+}
